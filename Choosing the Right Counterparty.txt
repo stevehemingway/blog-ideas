@@ -1,0 +1,96 @@
+Summary: Choosing the Right Counterparty
+Description: Basically, some companies exist to find patsies. 
+
+- $HLF,
+- Goldman Sachs,
+- Nigerian scammers,
+- FTX,
+- most of crypto,
+- lottery companies,
+- tobacco companies,
+- most of the luxury sector.
+
+It's not necessarily a bad business to be in. Some of it outright fraud, but some of it is providing a product or service that people, if they had more knowledge or imagination, or analytical ability would avoid. 
+
+Bring in something about Veblen and conspicuous consumption.
+
+Mention something about how scammers are much more prevalent now because:
+
+- it's much more easy to locate easy 'marks',
+- it's much easier disappear into the crowd, now, because the crowd is so much bigger.
+
+
+----------
+“**Know someone who might like Capital Gains?** Use the referral program to gain access to my database of book reviews (1), an invite to the Capital Gains Discord (2), stickers (10), and a mug (25). Find your referral link at the bottom!“ — 
+
+
+----------Investing, and business generally, is a game of relative advantage. There are two ways to get that: one is to try to maximize some kind of absolute advantage—design the fastest GPU, build the most comprehensive distribution network, estimate the intrinsic value of an investment with maximum accuracy, etc. But sometimes the right move is to just find a place where your median competitor is not as bright or hardworking as you are.
+
+Finance has cycles and epicycles of this. Some investors do well in one kind of investing until their returns attract competition, at which point they need to broaden their mandate. This can work very well (Soros moving out of arbitrage, Buffett abandoning "cigar butt" microcaps), but it's also tricky—there's a lot more competition in [TMT](https://capitalgains.thediff.co/p/tmt) than there was a decade ago, so some TMT investors have broadened their mandate to look at companies that have similar economic dynamics, but aren't really tech (in the related posts section at the end, we link to a writeup of a potato company popular with tech funds). And while this gives them a way to bet on the other 90% of the economy, it also means that they're looking at companies with a different margin of error: non-tech is more forgiving of strategic mistakes but less so of operational ones.^1^ Alternatively, instead of going non-tech, some investors will take an approach that works in one geography and apply it somewhere else, trying to back the [successful American startup] of [a country other than America]. It’s true that they're competing in a less efficient market, but that also means they're competing in a market with a different class of problems: the same competition for talent that makes the Bay Area an expensive place to operate also makes it a place where, if you need someone with N years of experience using technology X, you can find them fast.
+
+Some businesses are structured almost entirely as a search for an uninformed counterparty. The bet a search fund is making, for example, is that the fund manager knows more about business operations and (especially) financial engineering than the founder-owner of whatever company they're buying, and that this knowledge offsets the founder-owner's relatively more sophisticated understanding of the exact business they're in. Sometimes, this works well, and sometimes it means you bought Bob Inc., Bob retired, and all the revenue came from customers who personally liked Bob but will now go somewhere else.
+
+At the other end of the speed/scale spectrum, market-makers always have to think carefully about who is on the other side of the trade, and what that counterparty knows. One way they can somewhat avoid this is payment for order flow, i.e. paying Robinhood or another broker to direct orders to them, giving the Robinhood customers better prices, and trading with confidence since they know that Robinhood's customers are doing some combination of investing modest savings and gambling, and will not be placing huge orders.^2^
+
+An intermediate version of this is when someone works for a while in a highly-scalable, highly-competitive field and then tries to apply this to a less-scalable, but less competitive one. Examples abound:
+
+* Sometimes entrepreneurs will succeed in a software business and then launch a software-enabled brick-and-mortar company, like Spiffy, the car wash business co-founded by someone who'd previously built the e-commerce software company ChannelAdvisor, or Column, a bank run by a cofounder of Plaid.
+
+* Some systematic investors in equities, bonds, and FX applied their skills to crypto, where the market was far less efficient and the opportunities were easier to spot. But this was also a different world, one in which counterparty risk matters more and the regulatory situation is uncertain. Crypto is one of those places where your "alpha" might just be the risk premium you're paid for running a strategy on exchanges that are not long for this world.
+
+* Discretionary investors will sometimes downshift from analyzing mid- and large-cap stocks at a hedge fund to trading small-caps with their personal money. This is actually a lot like the search fund business. If you find an undervalued local bank with a $50m market cap, you don't have to worry about a Citadel or Millennium analyst having gotten there first. On the other hand, you _are_ competing with the guy who plays golf with the chairman every week and has never heard the term "Material Nonpublic Information." You're also competing with locals who know whether or not the loan officer does favors for friends, and who will notice if Chase starts building a branch.
+
+This may be worth it! In fact, the general path of starting in a competitive and scalable field, applying the gains to a less competitive and less scalable field, and then growing back to where you were before (or past it!) with a lot more of your own capital is well-established. That's basically what Buffett did; he worked for Benjamin Graham for a while, then raised his own fund with an order of magnitude less capital, and put his personal money into even smaller opportunities than that. Looking for the poker table full of patsies is a good way to optimize for percentage returns over dollar returns, but if it works well enough, the only tables with meaningful stakes will be the one where other players know what they're doing.
+
+———————————————————————————
+
+View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/81cd4dfd-2f98-40e1-9f6f-5549e2c5fe07/3.png?t=1714754016)
+Follow image link: (https://offers.hubspot.com/using-chatgpt-at-work?utm_medium=email-media-newsletter&utm_source=capital_gains&utm_campaign=creator&utm_content=beehiiv&utm_term=4-1-2024&_bhiiv=opp_1c4f3208-942f-4d69-861b-68c3219b85e1_b942af4d)
+Caption: 
+
+Unlock the full potential of your workday with cutting-edge AI strategies and actionable insights, empowering you to achieve unparalleled excellence in the future of work. [Download the free guide today!](https://offers.hubspot.com/using-chatgpt-at-work?utm_medium=email-media-newsletter&utm_source=capital_gains&utm_campaign=creator&utm_content=beehiiv&utm_term=4-1-2024&_bhiiv=opp_1c4f3208-942f-4d69-861b-68c3219b85e1_b942af4d)
+
+———————————————————————————
+
+## Read More in The Diff
+
+Choosing the right competitors and counterparties shows up in many places in the _Diff_ corpus:
+
+* We wrote about [Lamb-Weston, a potato company popular with tech funds](https://www.thediff.co/archive/hot-potatoes/) ($), and had a follow-up bit when [the company missed earnings because of, ironically, an IT problem](https://www.thediff.co/archive/inside-the-financial-plumbing-system/#death-by-irony).
+
+* [This post](https://www.thediff.co/archive/what-happened-to-all-the-diamonds/) looks at the opposite phenomenon, where an uncompetitive field is suddenly flooded with capital and talent.
+
+* In industries, one thing to look for is [an aging workforce that will suddenly flip younger when a big cohort retires](https://www.thediff.co/archive/a-uranium-shortage-someday/) ($).
+
+* And just yesterday we covered [the cyclical nature of retail participation in the stock market](https://www.thediff.co/archive/retail-participation-in-the-market-is-cyclical/) ($).
+
+Subscribe to The Diff (https://www.thediff.co/#/portal/signuphttps://www.thediff.co/#/portal/signup)
+
+———————————————————————————
+
+1. For example, 95% gross margins can forgive a lot of sloppiness, but missing the next product cycle is a bad move. In a business like airlines, it's generally okay to miss big cyclical changes in the industry, or to be late to them, but lower margins leave little room for error on the implementation side.
+
+2. Payment for order flow definitely sounds more suspicious than it is, but the important thing to know is that to the extent that it involves exploitation, the exploited party is whatever hedge fund is paying more to trade with the market-makers than Robinhood is. Typically, the market-maker operates on a fast enough timescale that they aren't worried that, for example, Bill Ackman is buying something from them at $100 that will be worth $130 next year. What they're worried about instead is that Ackman is buying so much that the price will be $101 later that day. If you are a customer whose order flow is worth paying for, it's strictly better that somebody pay for it. It's best, of course, not to be that customer, especially if you look like one on paper.
+
+———————————————————————————
+
+Share Capital Gains
+
+Share the newsletter with your friends and coworkers using your unique referral link to get rewards like Byrne's Book Reviews, access to the community Discord, stickers, mugs, and more!
+
+You currently have <strong>0</strong> referrals, only <strong>1</strong> away from receiving access to <strong>Byrne's Book Reviews</strong>.
+
+Or copy and paste this link to others: https://capitalgains.thediff.co/subscribe?ref=jVdrhP1AyV
+
+———————————————————————————
+## Join the discussion!
+
+Leave a Comment (https://capitalgains.thediff.co/p/counterparty?comments=true)
+
+
+
+
+———
+
+You are reading a plain text version of this post. For the best experience, copy and paste this link in your browser to view the post online:
+https://capitalgains.thediff.co/p/counterparty

@@ -1,0 +1,10 @@
+Summary: Complexity economics
+Description: https://www.econtalk.org/chaos-and-complexity-economics-with-j-doyne-farmer/#audio-highlights
+
+Chemical kinetics vs thermodynamics.
+
+Molecular dynamics and Monte-Carlo simulations.
+
+Agent-based models. Seen as 'cheating'. Rowlinson argument about computer models not allowing us any actual insight.
+
+Comparison with weather forecasting. Depends why you do the modelling: is it to get answers to practical problems, or is it to divine deep truths about the nature of the underlying system?

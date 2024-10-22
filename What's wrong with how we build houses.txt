@@ -1,0 +1,9 @@
+Summary: What's wrong with how we build houses?
+Description: Corbusier said that a house was a machine for living in. But a good machine should be designed so:
+
+- production equipment can be continuously improved and made more productive,
+- minimum surplus resources are used in its production so that when its economic life is over, everything is worn out,
+- the materials used in its construction can be cheaply recycled,
+- where some parts of the machine are unavoidably consumable (think of brake pads on a car), they can be replaced cheaply and easily.
+
+Houses fail on almost all these measures. They are mostly made exactly as they were hundreds of years ago.
