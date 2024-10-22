@@ -1,5 +1,6 @@
-Summary: Cladding issue
-Description: Email candidates with "Can't sell my flat, cladding problem".
+# Cladding issue
+
+Email candidates with "Can't sell my flat, cladding problem".
 
 Get answers: "We are committed to leasehold reform. We are sorry that you are having problems. Vote for us."
 

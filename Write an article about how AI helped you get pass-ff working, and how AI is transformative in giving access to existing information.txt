@@ -1,5 +1,6 @@
-Summary: Write an article about how AI helped you get pass-ff working, and how AI is transformative in giving access to existing information
-Description: Get Claude or someone to write an outline. 
+# Write an article about how AI helped you get pass-ff working, and how AI is transformative in giving access to existing information
+
+Get Claude or someone to write an outline. 
 
 Mention how you'd repeatedly failed to get the Firefox addin pass-ff to work. 
 

@@ -1,5 +1,6 @@
-Summary: Political decision making and availability bias
-Description: Politicians are:
+# Political decision making and availability bias
+
+Politicians are:
 
 - rich, and law-abiding,
 - clever, 

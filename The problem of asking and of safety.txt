@@ -1,5 +1,6 @@
-Summary: The problem of asking and of safety
-Description: The world is not black and white. Risks are not easily quantifiable. The decision to take a risk cannot be outsourced. Maybe, this is the essence of the distinction between risk and uncertainty that Frank Knight wrote about so inscrutably.
+# The problem of asking and of safety
+
+The world is not black and white. Risks are not easily quantifiable. The decision to take a risk cannot be outsourced. Maybe, this is the essence of the distinction between risk and uncertainty that Frank Knight wrote about so inscrutably.
 
 Basically, if you ask a lawyer "should I take this risk", he'll say "No!", even if the expected loss is a lot less than the expected gain.
 

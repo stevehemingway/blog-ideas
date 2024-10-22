@@ -1,5 +1,6 @@
-Summary: The problem of communication
-Description: It's difficult to communicate without an impedence match.
+# The problem of communication
+
+It's difficult to communicate without an impedence match.
 
 It's difficult to communicate when there is a disparity of income.
 

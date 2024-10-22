@@ -1,5 +1,6 @@
-Summary: Not in front of the children, darling!
-Description: As humans, we shy away from discussing tough topics.
+# Not in front of the children, darling!
+
+As humans, we shy away from discussing tough topics.
 
 - Biden's incapacity,
 - The projections for the deficit (or PSBR, as it used to be called),

@@ -1,5 +1,6 @@
-Summary: Helping kids with dyslexia read
-Description: Have an editor syntax colour natural language text.
+# Helping kids with dyslexia read
+
+Have an editor syntax colour natural language text.
 
 Real-time correction of punctuation and grammar errors.
 

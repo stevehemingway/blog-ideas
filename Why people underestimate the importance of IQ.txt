@@ -1,5 +1,6 @@
-Summary: Why people underestimate the importance of IQ
-Description: I used to be a governor of a primary school. One of the endless series of fad directives that were being sent out at the time by the minister for education was the demand that primary schools teach some grammar.
+# Why people underestimate the importance of IQ
+
+I used to be a governor of a primary school. One of the endless series of fad directives that were being sent out at the time by the minister for education was the demand that primary schools teach some grammar.
 This requirement was derided at the time by the educational establishment based on some cherry-picking of evidence (the minister wanted children to correctly identify and use 'fronted adverbials'). 
 
 Anyway, a teacher at the school found the grammar difficult to understand, and (presumably) impossible to teach. The response of the head was to decide that what was needed was more professional training. Nobody dared suggest that, just maybe, someone who struggles to understand the grammar of his mother tongue is simply not clever enough to be a teacher.

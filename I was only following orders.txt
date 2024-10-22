@@ -1,4 +1,5 @@
-Summary: I was only following orders
-Description: Write a blog about how we judge decisions made by politicians from the wrong perspective. How they have so little freedom. Putin: does he want to be a monster? No! Does he want to keep his family safe? Yes!
+# I was only following orders
+
+Write a blog about how we judge decisions made by politicians from the wrong perspective. How they have so little freedom. Putin: does he want to be a monster? No! Does he want to keep his family safe? Yes!
 
 Think of a gravity model of political influence.

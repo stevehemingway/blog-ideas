@@ -1,5 +1,6 @@
-Summary: Seinfeld on When Money Became Everything
-Description: SEINFELD: In the seventies, this is the tragic turn of American culture. And this was explained to me by Mario Joiner who cracked this puzzle that I could not figure out what the hell happened. That money became everything. What happened because it was not like that in the seventies. In the seventies, it’s how cool is your job? How cool is what you’re doing? If your job’s cooler than my job, you beat me.
+# Seinfeld on When Money Became Everything
+
+SEINFELD: In the seventies, this is the tragic turn of American culture. And this was explained to me by Mario Joiner who cracked this puzzle that I could not figure out what the hell happened. That money became everything. What happened because it was not like that in the seventies. In the seventies, it’s how cool is your job? How cool is what you’re doing? If your job’s cooler than my job, you beat me.
 
 BRENNAN: And no one said, how much are you making?
 

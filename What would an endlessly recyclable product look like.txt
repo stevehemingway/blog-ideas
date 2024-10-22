@@ -1,5 +1,6 @@
-Summary: What would an endlessly recyclable product look like?
-Description: No, actually, plastic cannot be recycled. It's all a con.
+# What would an endlessly recyclable product look like?
+
+No, actually, plastic cannot be recycled. It's all a con.
 
 Steve
 

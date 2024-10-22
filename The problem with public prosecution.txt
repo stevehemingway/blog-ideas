@@ -1,5 +1,6 @@
-Summary: The problem with public prosecution
-Description: Public prosecution is a fairly recent thing.
+# The problem with public prosecution
+
+Public prosecution is a fairly recent thing.
 In the past, the courts were involved only if a private citizen (OK, we're in the UK, so 'subject') took action.
 It's easy to understand why having a public body bring a prosecution against someone for murder, say, but having this function can form a slippery slope.
 

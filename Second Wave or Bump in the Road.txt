@@ -1,5 +1,6 @@
-Summary: Second Wave or Bump in the Road?
-Description: View this post on the web at https://www.nexteconomy.co/p/second-wave-or-bump-in-the-road
+# Second Wave or Bump in the Road?
+
+View this post on the web at https://www.nexteconomy.co/p/second-wave-or-bump-in-the-road
 
 For many market participants, this week’s US inflation data is regarded as a crucial gateway to interest rate cuts later this year. It is widely expected to come in soft, allowing the Fed to reduce interest rates over the summer months, as per its previously communicated guidance
 Curiously, at the same time, financial markets over the past weeks have been increasingly shaped by a “monetary debasement bid”, where real assets are aggressively bid in a presumably valuation indifferent way

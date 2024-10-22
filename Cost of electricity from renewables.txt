@@ -1,5 +1,6 @@
-Summary: Cost of electricity from renewables
-Description: Electricity from renwables probably of the order of £173/MWh, £0.173/kWh. 
+# Cost of electricity from renewables
+
+Electricity from renwables probably of the order of £173/MWh, £0.173/kWh. 
 
 Really familiar old tunes about storage, inefficience, dispatch ability, base load, excess generation...
 

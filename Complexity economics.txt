@@ -1,5 +1,6 @@
-Summary: Complexity economics
-Description: https://www.econtalk.org/chaos-and-complexity-economics-with-j-doyne-farmer/#audio-highlights
+# Complexity economics
+
+https://www.econtalk.org/chaos-and-complexity-economics-with-j-doyne-farmer/#audio-highlights
 
 Chemical kinetics vs thermodynamics.
 

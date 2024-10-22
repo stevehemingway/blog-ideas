@@ -1,5 +1,6 @@
-Summary: Subsidizing our way to net zero
-Description: https://www.ft.com/content/87393499-41da-403a-8823-bd31e910138e
+# Subsidizing our way to net zero
+
+https://www.ft.com/content/87393499-41da-403a-8823-bd31e910138e
 
 
 	Heat pump sales across Europe fell by 47 per cent in the first half of the year as consumers lost enthusiasm for switching away from gas boilers, putting more pressure on the EU’s green agenda.

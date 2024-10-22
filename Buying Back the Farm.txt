@@ -1,5 +1,6 @@
-Summary: Buying Back the Farm
-Description: View this post on the web at https://www.yesigiveafig.com/p/buying-back-the-farm
+# Buying Back the Farm
+
+View this post on the web at https://www.yesigiveafig.com/p/buying-back-the-farm
 
 Summary:
 Common financial theories about corporate share buybacks and their impact on market dynamics are flawed on both sides. The Modigliani Miller dividend irrelevance theorem is irrelevant in practice and do not account for the realities of market operation.

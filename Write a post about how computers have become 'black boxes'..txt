@@ -1,5 +1,6 @@
-Summary: Write a post about how computers have become 'black boxes'.
-Description: punched cards to smart phones.
+# Write a post about how computers have become 'black boxes'.
+
+punched cards to smart phones.
 
 nand gates and kids.
 

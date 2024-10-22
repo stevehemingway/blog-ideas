@@ -1,6 +1,6 @@
-Summary: Economic rents and excess profits
+# Economic rents and excess profits
 
-Description: Economic rents arise from barriers to entry, a supply constraint. This can arise from natural shortages of supply: think de Beers and diamonds, or land for agriculture. 
+# Economic rents arise from barriers to entry, a supply constraint. This can arise from natural shortages of supply: think de Beers and diamonds, or land for agriculture. 
 
 But aren't all returns the result of some sort of supply constraint? Isn't an interest rate a reflection of the shortage of supply of capital, because people need to consume what they produce?
 

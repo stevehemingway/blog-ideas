@@ -1,5 +1,6 @@
-Summary: Science policy
-Description: No leader of the developed world has a scientific training. It seems that when Patrick Vallance complained about Boris Johnson struggling with basic scientific concepts, other science advisors across the bloc produced a chorus of laughter.
+# Science policy
+
+No leader of the developed world has a scientific training. It seems that when Patrick Vallance complained about Boris Johnson struggling with basic scientific concepts, other science advisors across the bloc produced a chorus of laughter.
 
 As someone who is trained in science to the extent that he is trained in anything, this is rather shocking, but I suppose it's to be expected:
 

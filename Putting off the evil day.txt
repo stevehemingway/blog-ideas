@@ -1,5 +1,6 @@
-Summary: Putting off the evil day
-Description: Quantitative Easing (QE) and Zero Interest Rate Policy (ZIRP) suppress volatility in financial markets through several mechanisms:
+# Putting off the evil day
+
+Quantitative Easing (QE) and Zero Interest Rate Policy (ZIRP) suppress volatility in financial markets through several mechanisms:
 
 ### 1. **Lowering the Cost of Borrowing**
    - **ZIRP**: By keeping interest rates near or at zero, central banks make borrowing cheaper for banks, corporations, and individuals. This encourages risk-taking and investment in higher-yielding assets. Low borrowing costs reduce stress on the financial system, calming market participants and reducing volatility.

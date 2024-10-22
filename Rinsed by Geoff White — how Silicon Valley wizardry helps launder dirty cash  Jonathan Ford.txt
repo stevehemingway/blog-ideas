@@ -1,5 +1,6 @@
-Summary: Rinsed by Geoff White — how Silicon Valley wizardry helps launder dirty cash > Jonathan Ford
-Description: Rinsed by Geoff White — how Silicon Valley wizardry helps launder dirty cash
+# Rinsed by Geoff White — how Silicon Valley wizardry helps launder dirty cash > Jonathan Ford
+
+Rinsed by Geoff White — how Silicon Valley wizardry helps launder dirty cash
 Jonathan Ford > myFT Instant Alert at Financial Times
 
 This is about how crypto and modern fintech make money laundering much easier than it used to be. 

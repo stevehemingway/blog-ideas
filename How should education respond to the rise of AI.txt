@@ -1,5 +1,6 @@
-Summary: How should education respond to the rise of AI?
-Description: How did it respond to the rise of Google Translate and Mathematica? By becoming more and more irrelevant.
+# How should education respond to the rise of AI?
+
+How did it respond to the rise of Google Translate and Mathematica? By becoming more and more irrelevant.
 
 Lots of older people around today studied Greek and Latin at school, even though by the 50s it was clearly irrelevant.
 

@@ -1,5 +1,6 @@
-Summary: Choosing the Right Counterparty
-Description: Basically, some companies exist to find patsies. 
+# Choosing the Right Counterparty
+
+Basically, some companies exist to find patsies. 
 
 - $HLF,
 - Goldman Sachs,

@@ -1,2 +1,3 @@
-Summary: Work through your drafts
-Description: https://stevehemingway.substack.com/publish/posts/drafts
+# Work through your drafts
+
+https://stevehemingway.substack.com/publish/posts/drafts

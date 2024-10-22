@@ -1,5 +1,6 @@
-Summary: Maybe there are not diminishing returns to investment in marketing
-Description: My instinct is that consumers are able to assess the utility of what they consume, and that the mix of products they consume will be the utility-maximizing basket familiar to economists.
+# Maybe there are not diminishing returns to investment in marketing
+
+My instinct is that consumers are able to assess the utility of what they consume, and that the mix of products they consume will be the utility-maximizing basket familiar to economists.
 
 I don't suppose that anyone would think that increasing the price of some products to spend on marketing has no effect on consumer behaviour (if it didn't work, why would firms choose a non-zero marketing budget?).
 

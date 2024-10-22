@@ -1,5 +1,6 @@
-Summary: Martin Gurri - prophet of doom
-Description: A lot of content you read is about how polarized Substack is, and how the mainstream media is toast.
+# Martin Gurri - prophet of doom
+
+A lot of content you read is about how polarized Substack is, and how the mainstream media is toast.
 
 There are a couple of Capitalisn't episodes about the Google advertising monopoly case, which shows how Google has largely swallowed a whole industry, which kept the mainsteam media alive.
 

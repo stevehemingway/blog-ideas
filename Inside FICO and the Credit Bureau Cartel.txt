@@ -1,5 +1,6 @@
-Summary: Inside FICO and the Credit Bureau Cartel
-Description: How credit referencing became so concentrated.
+# Inside FICO and the Credit Bureau Cartel
+
+How credit referencing became so concentrated.
 
 Steve.
 

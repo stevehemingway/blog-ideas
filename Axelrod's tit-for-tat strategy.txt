@@ -1,2 +1,3 @@
-Summary: Axelrod's tit-for-tat strategy
-Description: https://www.perplexity.ai/search/write-a-python-script-to-illus-v5yX3hkbSgGIfIMM1yR37Q#1
+# Axelrod's tit-for-tat strategy
+
+https://www.perplexity.ai/search/write-a-python-script-to-illus-v5yX3hkbSgGIfIMM1yR37Q#1

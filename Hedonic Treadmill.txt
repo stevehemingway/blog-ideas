@@ -1,5 +1,6 @@
-Summary: Hedonic Treadmill
-Description: <https://en.wikipedia.org/wiki/Hedonic_treadmill>
+# Hedonic Treadmill
+
+<https://en.wikipedia.org/wiki/Hedonic_treadmill>
 
 The idea that whatever you consume, however rich you are, you always end up at the same level of utility. It seems completely opposed to the convex utility function stuff that underpins economics. No matter how much good stuff you get, you want more, so you end up like Jamie Dimon.
 

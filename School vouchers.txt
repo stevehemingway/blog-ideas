@@ -1,5 +1,6 @@
-Summary: School vouchers
-Description: https://www.propublica.org/article/arizona-school-vouchers-esa-private-schools
+# School vouchers
+
+https://www.propublica.org/article/arizona-school-vouchers-esa-private-schools
 
 I grew up reading Milton Friedman. 
 Now I am older, I can see that some of his brilliantly simple solutions to intractably complex problems may not work as expected. 

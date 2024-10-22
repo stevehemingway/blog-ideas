@@ -1,2 +1,3 @@
-Summary: Cities and their benefits
-Description: https://www.worksinprogress.news/p/what-did-henry-george-think-about?publication_id=90387&post_id=144465605&isFreemail=true&r=nmbt&triedRedirect=true
+# Cities and their benefits
+
+https://www.worksinprogress.news/p/what-did-henry-george-think-about?publication_id=90387&post_id=144465605&isFreemail=true&r=nmbt&triedRedirect=true

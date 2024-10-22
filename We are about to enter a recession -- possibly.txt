@@ -1,5 +1,6 @@
-Summary: We are about to enter a recession -- possibly
-Description: https://www.ft.com/content/c074dde0-7510-44c0-a178-8ca80254dfb1
+# We are about to enter a recession -- possibly
+
+https://www.ft.com/content/c074dde0-7510-44c0-a178-8ca80254dfb1
 
 Peter Berezin has been pushing this thesis for a while. Of course, eventually he'll be right. Most professionals don't agree, but there some markets seem to think the prediction is plausible:
 

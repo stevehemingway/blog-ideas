@@ -1,5 +1,6 @@
-Summary: Talk about how AI will collapse diversity of thought about controvertial topics
-Description: T
+# Talk about how AI will collapse diversity of thought about controvertial topics
+
+T
 
 Question: *Is it the case that the Stanford marshmallow experiment tests obedience to authority, rather than willingness to defer gratification*
 

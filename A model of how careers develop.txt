@@ -1,5 +1,6 @@
-Summary: A model of how careers develop
-Description: https://capitalgains.thediff.co/p/central-nodes
+# A model of how careers develop
+
+https://capitalgains.thediff.co/p/central-nodes
 
 Your value as an older worker is tied to your "social capital". This goes up a lot more for salesmen than for programmers. Working long hours and having mental agility is all very well, but this atrophies with age. 
 
