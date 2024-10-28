@@ -1,3 +1,16 @@
+# The problem with builders
+
+Builders come in all shapes and sizes, but for most ordinary consumers, the local builder is the only one they will ever deal with.
+Most people don't even get to do that: they live in a flat, and all major external work is done by contractors engaged by
+the management company, probably via the managing agent. They may get a kitchen or bathroom re-fitted, but they will 
+probably just buy a turnkey kitchen, with the shop subcontracting the fitting.
+
+Some householders will engage a small builder to build a conservatory, or an house extension. This is the sort of builder I'm writing about today.
+This builder will enter into a suitable contract with the client, and will probably subcontract the actual work to 'the trades' (i.e. the individual ground workers, roofers, joiners, electricians, plumbers, decorators etc.). The contract will probably be a template produced by the Royal Institute of British Architects, quite possibly the
+JCT Minor Works Building Contract. It just like the contract you have with your energy supplier, your bank, even Amazon. You agree to pay money in exchange for a defined service. The law provides a framework through which you can obtain redress if you do not receive the service (building your extension) specified in the contract. Equally, the builder has protection from doing the work and not being paid the agreed sum. Except that it's probably not worth the paper (or bits) it's written on. Not because the contract is sloppily drafted, but because your builder is probably a limited company, and that limited company probably has no assets. 
+
+
+ 
 
 In the UK, there are volume builders, like Persimmon, and Taylor-Wimpey.  And there are the guys who build your extension.
 Actually, there are some middle-size firms that employ a lot of bricklayers, but actually are almost invisible to the general public,
