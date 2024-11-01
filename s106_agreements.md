@@ -1,0 +1,57 @@
+# All you wanted to know about S106 but were afraid to ask
+
+https://www.s106management.co.uk/case-studies
+
+
+Perplexity: 
+
+A Section 106 agreement is a legally binding contract between a developer and a local planning authority that is linked to a planning permission. Here are the key points about Section 106 agreements:
+
+## Purpose and Function
+
+- It is designed to make a development acceptable in planning terms by securing contributions from the developer to mitigate the impact of the development on the local community and infrastructure[1][2].
+
+- These agreements ensure that certain extra works related to a development are undertaken[3].
+
+## Common Obligations
+
+Section 106 agreements often cover:
+
+- Provision of affordable housing
+- Financial contributions for infrastructure improvements (e.g. transport, public spaces, education)
+- Environmental improvements
+- Employment and training initiatives[3][4]
+
+## Key Characteristics
+
+- They are site-specific and directly related to the proposed development[1][2].
+- Must be necessary, relevant, and reasonable in scale to the development[1].
+- Become registered as charges with the Land Registry until formally discharged by the council[5].
+
+## Legal Basis
+
+- Derived from Section 106 of the Town and Country Planning Act 1990[1][2].
+- Can be enforced against the person who entered into the obligation and subsequent owners[6].
+
+## Relationship with Community Infrastructure Levy (CIL)
+
+- Section 106 agreements continue to be used alongside CIL, but are more focused on site-specific mitigation[6].
+- CIL is designed to address broader impacts of development[6].
+
+## Modification and Review
+
+- Can be modified or discharged under certain conditions, typically after five years[6].
+- Recent legislation allows for review of affordable housing requirements in some cases[6].
+
+Section 106 agreements play a crucial role in ensuring that new developments contribute positively to local communities and infrastructure, balancing the pressures created by new construction with improvements to the surrounding area.
+
+Citations:
+[1] https://www.kslaw.co.uk/site/library/kslaw_legal_news/what-is-a-section-106
+[2] https://eastdevon.gov.uk/community-engagement/participatory-budgeting/guide-for-town-and-parish-councils/what-is-a-section-106-agreement/
+[3] https://www.planningportal.co.uk/services/help/faq/planning/what-are-section-106-s106-agreements/
+[4] https://www.tendringdc.gov.uk/content/what-is-a-section-106-legal-agreement
+[5] https://www.southwark.gov.uk/planning-and-building-control/section-106-and-community-infrastructure-levy/section-106
+[6] https://www.local.gov.uk/pas/topics/delivery/delivery-archive/developer-contributions-cil-s106-archived-pages/archived-s106
+[7] https://www.cornwall.gov.uk/housing/affordable-housing/understanding-your-section-106-agreement/
+[8] https://www.gov.uk/guidance/planning-obligations
+
