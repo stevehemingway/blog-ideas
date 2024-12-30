@@ -1,0 +1,15 @@
+# Byrne Hobart -- The Diff
+
+Hobart seems to have a great ability to think beyond the conventional boundaries of financial journalism.
+He makes connections between technology, society, and the investment world. 
+He seems to be able to see new developments in a bigger context, and relate them to historical analogues.
+
+The only comparable commentator I can think of is Matt Levine, whose daily newsletter focuses on explaining the mechanics, 
+and legal framework for various complex financial deals. 
+Both are great at abstracting from a particular deal to making a more general point about the financial ecosystem.
+Most people who work in finance are entirely focussed on one narrow eco-system, and probably have no idea how their field
+relates to finance more generally.
+
+I'm not sure that any of Hobart's newsletters can be said to lead to investment ideas, but they always leave me feeling that I have a deeper insight into the financial world.
+
+Oddly, today (2024-12-17), Levine referenced Byrne in his column! (https://www.bloomberg.com/opinion/articles/2024-12-16/elon-musk-heard-from-the-sec).

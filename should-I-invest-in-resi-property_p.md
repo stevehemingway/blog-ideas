@@ -1,0 +1,1 @@
+<https://matsmith.substack.com/p/the-future-property-investment-landscape?utm_source=post-email-title&publication_id=1570486&post_id=151315700&utm_campaign=email-post-title&isFreemail=true&r=nmbt&triedRedirect=true&utm_medium=email>
