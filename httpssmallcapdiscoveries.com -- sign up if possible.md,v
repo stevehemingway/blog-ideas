@@ -1,0 +1,27 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@small caps, unloved.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# https://smallcapdiscoveries.com/ -- sign up if possible
+
+
+@

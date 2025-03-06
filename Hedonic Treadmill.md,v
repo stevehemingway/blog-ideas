@@ -1,0 +1,61 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@Hedonic treadmills.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# Hedonic Treadmill
+
+<https://en.wikipedia.org/wiki/Hedonic_treadmill>
+
+The idea that whatever you consume, however rich you are, you always end up at the same level of utility. It seems completely opposed to the convex utility function stuff that underpins economics. No matter how much good stuff you get, you want more, so you end up like Jamie Dimon.
+
+Many successful individuals grapple with unhappiness despite their achievements, and several factors contribute to this paradox.
+
+## **Reasons for Unhappiness Among Successful People**
+
+1. **Social Comparisons**: High achievers often use social comparisons to measure their success, leading to feelings of inadequacy. This tendency can create a cycle of envy and dissatisfaction, as they constantly compare themselves to others who seem more successful[1][2].
+
+2. **Pressure and Expectations**: Successful individuals frequently face immense pressure to maintain their status or achieve even greater heights. This relentless pursuit can lead to stress and burnout, overshadowing moments of joy and fulfillment[2][3].
+
+3. **Isolation**: Extreme success can result in feelings of loneliness. The lifestyle that comes with high achievement often disconnects individuals from simpler, more relatable experiences, making it harder for them to connect with others on a personal level[2][4].
+
+4. **The Hedonic Treadmill**: Many successful people experience the "hedonic treadmill," where initial boosts in happiness from accomplishments quickly fade. They find themselves needing ever-greater achievements or material possessions to feel satisfied, which can lead to chronic dissatisfaction[1][3].
+
+5. **Guilt and Shame**: Some successful individuals feel guilty about their unhappiness, believing they should be content given their wealth and accomplishments. This guilt can exacerbate feelings of inadequacy and despair[3][6].
+
+6. **Lack of Mastery**: A focus on external markers of success (like income or status) rather than personal mastery can lead to unhappiness. When individuals fail to engage in activities that they genuinely enjoy or excel at, they miss out on the intrinsic rewards that contribute to well-being[1][4].
+
+7. **Materialism**: The pursuit of material goods often leads to temporary satisfaction rather than lasting happiness. Once the novelty wears off, individuals may find themselves yearning for more, creating a cycle of unfulfilled desires[3][6].
+
+## **Conclusion**
+
+While success is often equated with happiness, the reality is more complex. Many successful people experience unhappiness due to social pressures, isolation, and a focus on external validation rather than personal fulfillment. Understanding these dynamics can help shift perspectives towards what truly contributes to long-term happiness—engaging in meaningful activities and fostering genuine connections with others.
+
+Citations:
+[1] https://www.inc.com/jessica-stillman/why-so-many-successful-people-are-still-unhappy.html
+[2] https://www.forbes.com/sites/alicegwalton/2015/01/26/why-the-super-successful-get-depressed/
+[3] https://www.strategy-business.com/article/Why-arent-successful-people-happier
+[4] https://www.drgihan.com/blog-posts/why-successful-people-are-unhappy/
+[5] https://www.reddit.com/r/Fire/comments/iwu7ik/why_is_everyone_unhappy_despite_their_success/
+[6] https://www.psychologytoday.com/intl/blog/how-to-do-life/201908/successful-and-still-unhappy
+[7] https://www.theguardian.com/commentisfree/2021/nov/22/therapist-super-rich-succession-billionaires
+[8] https://www.inc.com/joe-procopio/why-good-business-leaders-are-miserable-people.html
+@

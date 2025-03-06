@@ -1,0 +1,30 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@shyness.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@
+Alcohol helps with shyness. 
+It definitely is harmful to health, so I can't recommend it, 
+but it works. Maybe it's only a placebo, but it does.
+
+Tim, Dennis, Tony.
+@

@@ -1,0 +1,26 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# write up a post which argues that we should not focus on building "affordable homes".
+
+Write up a post which argues that we should not focus on building "affordable homes".
+@

@@ -1,0 +1,27 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@stock exchanges
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# Note how when you were young the local paper carried a list of prices quoted at the Cardiff stock exchange.
+
+
+@

@@ -1,0 +1,49 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@utilities
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# Public defibrillators are like the little shrines by the highway in Catholic countries
+
+
+
+We buy stuff because it increases our utility. Or, because it doesn't increase our u'
+
+I love economics. It unifies a lot of diverse social behaviour.
+Our behaviour can be explained simply by assuming that we are trying to solve a multi-dimensional maximization problem, with the space defined by the quantities of various stuff we consume, and the function being some vaguely-defined utility.
+
+We could mix in some stuff about expectations, so we might posit that we buy lottery tickets when the product of the prize and the probability of winning it is greater than the cost of the ticket. Except, that's obviously not true: otherwise nobody anywhere would ever buy a lottery ticket.
+
+We actually consume stuff that has zero utility, stuff that cannot, in any meaningful sense, increase our utility, other than somehow making us feel better about ourselves.
+
+
+They don't do any good, but they make people feel better.
+
+Same with CCTV.
+
+A sort of stationary amulet.
+
+Wood pellets.
+
+Heat pumps.
+
+Covid vaccines.
+@

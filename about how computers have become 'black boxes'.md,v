@@ -1,0 +1,35 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@black boxes.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# Write a post about how computers have become 'black boxes'.
+
+punched cards to smart phones.
+
+nand gates and kids.
+
+adders and cpus.
+
+matrix mult and vector processing.
+
+Natural evolution of responsibility
+@

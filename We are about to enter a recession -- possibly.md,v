@@ -1,0 +1,35 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# We are about to enter a recession -- possibly
+
+https://www.ft.com/content/c074dde0-7510-44c0-a178-8ca80254dfb1
+
+Peter Berezin has been pushing this thesis for a while. Of course, eventually he'll be right. Most professionals don't agree, but there some markets seem to think the prediction is plausible:
+
+- US 10Y yields below 4%, even with inflation surely still hovering around that level,
+- China close to stall speed on an economy that's precariously positioned. China is an aging society, with most saving funnelled into the most unproductive asset of all: real estate, especially residential RE (both at home and abroad),
+- the Fed will probably drop rates by as much as 225bp over the coming months. This will destabilize FX markets, with the US sucking growth out of the rest of the world. 
+- job data in the US is looking pretty weak, compared to the confident tone of a year ago.
+
+Commodity prices are very weak, both energy and copper (and even uranium). These are set by companies with boots on the ground, rather than armchair generals. The Fed has never successfully beaten inflation before without triggering a recession. It'd be a miracle if it brought it off this time.
+@

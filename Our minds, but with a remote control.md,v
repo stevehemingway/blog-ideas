@@ -1,0 +1,27 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@remote control of minds
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# Our minds, but with a remote control
+
+[Megan and her remote-controlled mind.](https://open.substack.com/pub/leftfieldinvesting/p/megan-and-her-remote-controlled-mind?r=nmbt&utm_campaign=post&utm_medium=web)
+@

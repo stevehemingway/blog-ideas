@@ -1,0 +1,36 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@AI and its impact.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# Write an article about how AI helped you get pass-ff working, and how AI is transformative in giving access to existing information
+
+Get Claude or someone to write an outline. 
+
+Mention how you'd repeatedly failed to get the Firefox addin pass-ff to work. 
+
+Talk about what pass-ff is.
+
+Talk about gpg and passwords and syncing and logs etc.
+
+Talk about how the important problems have no solutions, but are a matter of how to strike a balance between competing forces.
+
+@

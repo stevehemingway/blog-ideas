@@ -1,0 +1,107 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# What would an endlessly recyclable product look like?
+
+No, actually, plastic cannot be recycled. It's all a con.
+
+Steve
+
+Let’s examine this fruit cup like an investigative reporter.
+
+ProPublica ProPublica <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvP3V0bV9zb3VyY2U9c2FpbHRocnUmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249d2Vla2x5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9bWFzdGhlYWQ/65538bd98eb847611b104271Cd271b7a4> Donate <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly9naXZlLnByb3B1YmxpY2Eub3JnL2dpdmUvMzQ2NTIwLyMhL2RvbmF0aW9uL2NoZWNrb3V0P2Nfc3JjMj1Ec3AmdXRtX3NvdXJjZT1zYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13ZWVrbHktbmV3c2xldHRlciZ1dG1fY29udGVudD10b3AtYnV0dG9uJmNfc3JjPTM1Nzk3ODk5LjE0MTYxOQ/65538bd98eb847611b104271C434b8fd3>
+
+Dispatches
+By Logan Jaffe
+
+Welcome to Dispatches, a weekly newsletter from ProPublica that spotlights wrongdoing in America and journalism from our newsroom. I’m Logan Jaffe, a reporter on our audience team, and this week I’m writing to you about a recent story, “The Delusion of ‘Advanced’ Plastic Recycling <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9kZWx1c2lvbi1hZHZhbmNlZC1jaGVtaWNhbC1wbGFzdGljLXJlY3ljbGluZy1weXJvbHlzaXM/65538bd98eb847611b104271Eeac6f5ea>” by reporter Lisa Song. If this email was forwarded to you, you can sign up to receive it <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvbmV3c2xldHRlcnMvdGhlLXdlZWtseS1kaXNwYXRjaD9zb3VyY2U9bmV3c2xldHRlci1mb290ZXI/65538bd98eb847611b104271C1da0777e>.
+
+As a millennial, I remember well the environmentalism of the 1990s. I watched “Captain Planet.” I celebrated Earth Day at school. I still, out of habits formed then, cut up plastic soda rings to avoid harming marine life. Then I recycle the plastic. Or at least recycling is what I’d like to think I’m doing, even though I know the reality <https://link.propublica.net/click/35797899.141619/aHR0cHM6Ly9ncmlzdC5vcmcvYWNjb3VudGFiaWxpdHkvcGV0cm9jaGVtaWNhbC1jb21wYW5pZXMtaGF2ZS1rbm93bi1mb3ItNDAteWVhcnMtdGhhdC1wbGFzdGljcy1yZWN5Y2xpbmctd291bGRudC13b3JrLw/65538bd98eb847611b104271C4f86bd2f>.
+
+This week, my colleague Lisa Song published an investigation that reveals how fossil fuel and chemical companies that rely on plastic production — some of the same companies that promoted the recycling campaigns I remember from the 1990s — are touting another method of plastic recycling <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9kZWx1c2lvbi1hZHZhbmNlZC1jaGVtaWNhbC1wbGFzdGljLXJlY3ljbGluZy1weXJvbHlzaXM/65538bd98eb847611b104271Feac6f5ea>. This type of “chemical” recycling, they allege, is supposed to be much better than old-school “mechanical” recycling, which yields plastic that’s degraded or contaminated. This method promises hard-to-recycle plastics like candy wrappers and grocery bags will not only finally be recyclable but could be recycled again and again, perhaps infinitely.
+
+The “advanced” recycling method is a chemical process called pyrolysis. “Pyro” means fire and “lysis” means separation, Lisa explained. The process uses heat to break plastic all the way down to its molecular building blocks.
+
+One of the companies that promotes its own method of pyrolysis, aptly branded as the “Exxtend” process, is ExxonMobil. In late August of last year, Lisa found, ExxonMobil joined two other companies in announcing to the world <https://link.propublica.net/click/35797899.141619/aHR0cHM6Ly93d3cucGFja3dvcmxkLmNvbS9zdXBwbGllci1uZXdzL25ld3MvMjI4NzE0NjkvcHJpbnRwYWNrLXByaW50cGFjay1leHhvbm1vYmlsLXBhY2lmaWMtY29hc3QtcHJvZHVjZXJzLWJyaW5nLWNpcmN1bGFyaXR5LXRvLWZydWl0LWN1cHM/65538bd98eb847611b104271Cdd7b35ba> that its use of pyrolysis had yielded a fruit cup.
+
+(Source: Printpack press release)
+
+Lisa, who has covered environmental issues for years, became obsessed with these fruit cups that seemed to prove it was possible to make endlessly recyclable products. But as investigative reporters, it’s our job to be skeptical. And so began Lisa’s journey to get to the bottom of how, exactly, plastic-dependent industries are using pyrolysis and whether it’s as effective as they say it is.
+
+She ran into a wall almost immediately.
+
+Nobody at any of the three companies behind the fruit cup answered detailed questions about the cup’s availability or how it was made. Lisa tried — fruitlessly — to locate the cups in a store or find some other way to buy them. But she ran into dead ends there, too.
+
+“For months,” she wrote, “I tracked press releases, interviewed experts, tried to buy plastic made via pyrolysis and learned more than I ever wanted to know about the science of recycled molecules.”
+
+The result of her pursuit is this week’s story <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9kZWx1c2lvbi1hZHZhbmNlZC1jaGVtaWNhbC1wbGFzdGljLXJlY3ljbGluZy1weXJvbHlzaXM/65538bd98eb847611b104271Geac6f5ea>, which I highly recommend you read. It’s a real trip, and full of useful, detailed breakdowns of each of her findings, which include the following:
+
+* Most of the old plastic that goes into pyrolysis doesn’t actually become new plastic.
+
+* The plastic that comes out of pyrolysis contains very little recycled material.
+
+* The industry uses mathematical acrobatics to make pyrolysis look like a success.
+
+What does this mean for you?
+
+At the very least, you should be skeptical when you’re deciphering the plastic-industry lingo on recyclable packaging. For example, if you scroll back up to that press-release image of the plastic cups, you’ll see in the top right corner a circular label that says “ISCC.” The text of the press release says the fruit cup product has “30% ISCC PLUS certified-circular content.” Naturally, you might think this means that the fruit cup is made of 30% recycled plastic.
+
+That’s not the case.
+
+Lisa worked with graphics editor Lucas Waldron to create charts that help show how rules created by industry-affiliated groups like the International Sustainability and Carbon Certification allow companies to shuffle numbers related to the “recycled-ness” of various products so they end up with potentially misleading packaging information. The plastics industry and green marketers call this calculation “mass balance,” and they argue that it is crucial to the future of advanced recycling. ISCC didn’t respond to Lisa’s requests for comment. Though ExxonMobil didn’t respond to her questions about the fruit cup, the company has defended the use of mass balance <https://link.propublica.net/click/35797899.141619/aHR0cHM6Ly93d3cuZG9jdW1lbnRjbG91ZC5vcmcvZG9jdW1lbnRzLzI0Njg4Nzg5LTIwMjMtMDQtMjQtZXh4b25tb2JpbC1mdGMtY29tbWVudHMjZG9jdW1lbnQvcDUvYTI1NjIxNzU/65538bd98eb847611b104271Cc0952425>, saying, “The science of advanced recycling simply does not support any other approach because the ability to track individual molecules does not readily exist.”
+
+In the end, Lisa never got her hands on that elusive fruit cup. But that doesn’t mean she didn’t get the answers she was looking for.
+
+“I ran down half a dozen claims about products that came out of pyrolysis; each either existed in limited quantities or had its recycled-ness obscured with mass balance caveats,” she wrote.
+
+The story provided me with answers, too, to questions I didn’t even know I had. But I’m still at a loss as to what to do with the plastic rings that hold six-packs together, so I asked Lisa. She told me, “The sad reality is that every question about, ‘Is this specific thing actually recycled?’ would be its own investigation — and the answer would be different depending on your local municipality.”
+
+For now, I’ll keep cutting the rings out of habit. And even though I’m not sure what will happen to the pieces, I know that “pyrolysis” will almost certainly have nothing to do with it.
+
+<https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9kZWx1c2lvbi1hZHZhbmNlZC1jaGVtaWNhbC1wbGFzdGljLXJlY3ljbGluZy1weXJvbHlzaXM_dXRtX3NvdXJjZT1zYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13ZWVrbHktbmV3c2xldHRlciZ1dG1fY29udGVudD1mZWF0dXJl/65538bd98eb847611b104271Ef4f3006e>
+
+The Delusion of “Advanced” Plastic Recycling <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9kZWx1c2lvbi1hZHZhbmNlZC1jaGVtaWNhbC1wbGFzdGljLXJlY3ljbGluZy1weXJvbHlzaXM_dXRtX3NvdXJjZT1zYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13ZWVrbHktbmV3c2xldHRlciZ1dG1fY29udGVudD1mZWF0dXJl/65538bd98eb847611b104271Ff4f3006e> The plastics industry has heralded a type of chemical recycling it claims could replace new shopping bags and candy wrappers with old ones — but not much is being recycled at all, and this method won’t curb the crisis. by Lisa Song, Illustrations by Max Guther, special to ProPublica
+
+VIEW STORY <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9kZWx1c2lvbi1hZHZhbmNlZC1jaGVtaWNhbC1wbGFzdGljLXJlY3ljbGluZy1weXJvbHlzaXM_dXRtX3NvdXJjZT1zYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13ZWVrbHktbmV3c2xldHRlciZ1dG1fY29udGVudD1mZWF0dXJl/65538bd98eb847611b104271Gf4f3006e>
+
+what else we published this week
+
+Texas Is the Largest GOP Stronghold Without Pro-School Voucher Legislation. Gov. Abbott Is on a Crusade to Change That. <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS90ZXhhcy1ncmVnLWFiYm90dC1jcnVzYWRlLWZvci1zY2hvb2wtdm91Y2hlcnM_dXRtX3NvdXJjZT1zYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13ZWVrbHktbmV3c2xldHRlciZ1dG1fY29udGVudD1yaXZlcg/65538bd98eb847611b104271D8acd443c> Greg Abbott has campaigned against members of his own party who do not support voucher programs. This fall, he may finally get the votes needed to pass a bill — a win for the Christian conservative donors who have spent decades lobbying for it. by Jeremy Schwartz <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS90ZXhhcy1ncmVnLWFiYm90dC1jcnVzYWRlLWZvci1zY2hvb2wtdm91Y2hlcnM_dXRtX3NvdXJjZT1zYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13ZWVrbHktbmV3c2xldHRlciZ1dG1fY29udGVudD1yaXZlcg/65538bd98eb847611b104271E8acd443c>
+
+Three States Have Warned Against Sending Students to an Unregulated Boarding School for Youth With Autism <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9zaHJ1Yi1vYWstaW50ZXJuYXRpb25hbC1hdXRpc20tY29ubmVjdGljdXQtd2FzaGluZ3Rvbi1tYXNzYWNodXNldHRzP3V0bV9zb3VyY2U9c2FpbHRocnUmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249d2Vla2x5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9cml2ZXI/65538bd98eb847611b104271D4b57f8ae> After visiting Shrub Oak International School, officials from Connecticut, Washington and Massachusetts have advised districts of troubling conditions at the school where a ProPublica investigation uncovered reports of abuse and neglect. by Jennifer Smith Richards and Jodi S. Cohen <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9zaHJ1Yi1vYWstaW50ZXJuYXRpb25hbC1hdXRpc20tY29ubmVjdGljdXQtd2FzaGluZ3Rvbi1tYXNzYWNodXNldHRzP3V0bV9zb3VyY2U9c2FpbHRocnUmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249d2Vla2x5LW5ld3NsZXR0ZXImdXRtX2NvbnRlbnQ9cml2ZXI/65538bd98eb847611b104271E4b57f8ae>
+
+How a Network of Nonprofits Enriches Fundraisers While Spending Almost Nothing on Its Stated Causes <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9wb2xpdGljYWwtbm9ucHJvZml0cy1mdW5kcmFpc2luZy1mdGMtaXJzLTUyN3MtcGFjcz91dG1fc291cmNlPXNhaWx0aHJ1JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPXdlZWtseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PXJpdmVy/65538bd98eb847611b104271Dc87f17d1> ProPublica identified a group of connected political nonprofits — with names like American Breast Cancer Coalition and National Coalition for Disabled Veterans — that appear to be funneling more than 90% of donations to fundraisers. by Ellis Simani <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9wb2xpdGljYWwtbm9ucHJvZml0cy1mdW5kcmFpc2luZy1mdGMtaXJzLTUyN3MtcGFjcz91dG1fc291cmNlPXNhaWx0aHJ1JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPXdlZWtseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PXJpdmVy/65538bd98eb847611b104271Ec87f17d1>
+
+Introducing ProPublica’s 527 Explorer <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9zZWFyY2gtNTI3cy1maW5hbmNlcy1wYWNzLWRhdGFiYXNlLXBvbGl0aWNhbC1zcGVuZGluZz91dG1fc291cmNlPXNhaWx0aHJ1JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPXdlZWtseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PXJpdmVy/65538bd98eb847611b104271D1772eeb8> Nonprofits known as 527s can raise unlimited sums for political spending. ProPublica is releasing a new database that will allow journalists, researchers and others to more easily search these organizations’ finances. by Ruth Talbot and Brandon Roberts <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9zZWFyY2gtNTI3cy1maW5hbmNlcy1wYWNzLWRhdGFiYXNlLXBvbGl0aWNhbC1zcGVuZGluZz91dG1fc291cmNlPXNhaWx0aHJ1JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPXdlZWtseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PXJpdmVy/65538bd98eb847611b104271E1772eeb8>
+
+Nine Takeaways From Our Investigation Into Microsoft’s Cybersecurity Failures <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9taWNyb3NvZnQtc29sYXJ3aW5kcy13aGF0LXlvdS1uZWVkLXRvLWtub3ctY3liZXJzZWN1cml0eT91dG1fc291cmNlPXNhaWx0aHJ1JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPXdlZWtseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PXJpdmVy/65538bd98eb847611b104271D425e454d> What you need to know about how a whistleblower repeatedly tried to get the software giant to fix a security flaw that left millions of Microsoft users exposed. by ProPublica <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9taWNyb3NvZnQtc29sYXJ3aW5kcy13aGF0LXlvdS1uZWVkLXRvLWtub3ctY3liZXJzZWN1cml0eT91dG1fc291cmNlPXNhaWx0aHJ1JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPXdlZWtseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PXJpdmVy/65538bd98eb847611b104271E425e454d>
+
+When Therapists Lose Their Licenses, Some Turn to the Unregulated Life Coaching Industry Instead <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS91dGFoLXRoZXJhcGlzdHMtbGlmZS1jb2FjaGVzLXJlZ3VsYXRpb24_dXRtX3NvdXJjZT1zYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13ZWVrbHktbmV3c2xldHRlciZ1dG1fY29udGVudD1yaXZlcg/65538bd98eb847611b104271De4c52173> Despite past misconduct, some former therapists have continued their careers as life coaches. Now, after a high-profile conviction in Utah, legislators are asking whether it’s time for more oversight. by Jessica Miller, The Salt Lake Tribune <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS91dGFoLXRoZXJhcGlzdHMtbGlmZS1jb2FjaGVzLXJlZ3VsYXRpb24_dXRtX3NvdXJjZT1zYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13ZWVrbHktbmV3c2xldHRlciZ1dG1fY29udGVudD1yaXZlcg/65538bd98eb847611b104271Ee4c52173>
+
+North Carolina Supreme Court Secretly Squashed Discipline of Two GOP Judges Who Admitted to Violating Judicial Code <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9ub3J0aC1jYXJvbGluYS1zdXByZW1lLWNvdXJ0LXJlcHVibGljYW4tanVkZ2VzLXZpb2xhdGlvbnM_dXRtX3NvdXJjZT1zYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13ZWVrbHktbmV3c2xldHRlciZ1dG1fY29udGVudD1yaXZlcg/65538bd98eb847611b104271Dec87913e> The decisions came despite the Judicial Standards Commission’s recommendations to publicly reprimand the judges, and these are likely the only times in more than a decade in which the court didn’t follow the commission’s guidance. by Doug Bock Clark <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvYXJ0aWNsZS9ub3J0aC1jYXJvbGluYS1zdXByZW1lLWNvdXJ0LXJlcHVibGljYW4tanVkZ2VzLXZpb2xhdGlvbnM_dXRtX3NvdXJjZT1zYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13ZWVrbHktbmV3c2xldHRlciZ1dG1fY29udGVudD1yaXZlcg/65538bd98eb847611b104271Eec87913e>
+
+Find us on Facebook <https://link.propublica.net/click/35797899.141619/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3Byb3B1YmxpY2E/65538bd98eb847611b104271C4d4a2e4d> Follow us on Twitter <https://link.propublica.net/click/35797899.141619/aHR0cHM6Ly90d2l0dGVyLmNvbS9wcm9wdWJsaWNh/65538bd98eb847611b104271Cd474570a> Follow us on Instagram <https://link.propublica.net/click/35797899.141619/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wcm9wdWJsaWNhLw/65538bd98eb847611b104271C43a63b14> Watch us on Youtube <https://link.propublica.net/click/35797899.141619/aHR0cHM6Ly93d3cueW91dHViZS5jb20vcHJvcHVibGljYQ/65538bd98eb847611b104271C15c3f0fd> Donate <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly9naXZlLnByb3B1YmxpY2Eub3JnL2dpdmUvMzQ2NTIwLyMhL2RvbmF0aW9uL2NoZWNrb3V0P2Nfc3JjMj1Ec3AmdXRtX3NvdXJjZT1zYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13ZWVrbHktbmV3c2xldHRlciZ1dG1fY29udGVudD1mb290ZXItYnV0dG9uJmNfc3JjPTM1Nzk3ODk5LjE0MTYxOQ/65538bd98eb847611b104271C2939030c>
+
+Get the ProPublica mobile app:
+Download on the App Store <https://link.propublica.net/click/35797899.141619/aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL2FwcC9wcm9wdWJsaWNhL2lkMzU1Mjk4ODg3P210PTg/65538bd98eb847611b104271Cee593491> Get it on Google Play <https://link.propublica.net/click/35797899.141619/aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5wcm9wdWJsaWNhJmhsPWVu/65538bd98eb847611b104271C4bca2a60>
+Was this email forwarded to you from a friend? Subscribe. <https://link.propublica.org/click/35797899.141619/aHR0cHM6Ly93d3cucHJvcHVibGljYS5vcmcvbmV3c2xldHRlcnMvZGlzcGF0Y2hlcz9zb3VyY2U9bmV3c2xldHRlci1mb290ZXI/65538bd98eb847611b104271C9f5f9547> This email was sent to stevehemingway@@disroot.org. Update your email preferences or unsubscribe <https://link.propublica.net/oc/65538bd98eb847611b104271lb9u3.319v/0762b8dd> to stop receiving this newsletter. Email not displaying correctly? View it in your browser. <https://link.propublica.net/view/65538bd98eb847611b104271lb9u3.319v/f235c1fe> ProPublica • 155 Ave of the Americas, 13th Floor • New York, NY 10013 <a href="https://link.propublica.net/click/35797899.141619/aHR0cDovL3d3dy5wcm9wdWJsaWNhLm9yZyI/65538bd98eb847611b104271B510388b0><img src="https://link.propublica.net/img/65538bd98eb847611b104271lb9u3.319v/e7832533.gif" alt="" border="0" /></a>
+@

@@ -1,0 +1,27 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@truncated distrib.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# Maybe we should start thinking harder about truncated distributions
+
+<https://timdellinger.substack.com/p/hey-wait-is-employee-performance>
+@

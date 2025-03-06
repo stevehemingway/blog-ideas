@@ -1,0 +1,29 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@local empathy
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# Write something about how it's hard to feel empathy with someone very remote
+
+Tess example.
+Extend to "captains of industry" and political leaders.
+
+@

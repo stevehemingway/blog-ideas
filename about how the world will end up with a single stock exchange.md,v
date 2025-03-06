@@ -1,0 +1,29 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@scale and monopoly
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# Write a blog post about how the world will end up with a single stock exchange
+
+Write a blog post about how the world will end up with a single stock exchange
+
+There is a
+@

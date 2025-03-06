@@ -1,0 +1,27 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@cities and agglomeration.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# Cities and their benefits
+
+https://www.worksinprogress.news/p/what-did-henry-george-think-about?publication_id=90387&post_id=144465605&isFreemail=true&r=nmbt&triedRedirect=true
+@

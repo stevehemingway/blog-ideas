@@ -1,0 +1,32 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@cladding, problems.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# Cladding issue
+
+Email candidates with "Can't sell my flat, cladding problem".
+
+Get answers: "We are committed to leasehold reform. We are sorry that you are having problems. Vote for us."
+
+It's fairly clear that nobody has read the actual email, but someone (or an AI) has picked up the word 'leasehold' and a standard answer has been generated in the hope that a bland "We share your pain and we promise to make it go away" answer will secure this person's vote.
+
+@

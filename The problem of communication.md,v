@@ -1,0 +1,33 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@communication
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# The problem of communication
+
+It's difficult to communicate without an impedence match.
+
+It's difficult to communicate when there is a disparity of income.
+
+There is a difficulty of communication when there is a disparity of power.
+
+There is an economic cost to making everyone equal in power and income. But there is a great social gain.
+@

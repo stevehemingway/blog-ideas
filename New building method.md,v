@@ -1,0 +1,27 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@new build techniques
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# New building method
+
+ONX construction (interesting startup in modular build, in USA, tho') https://www.construction-physics.com/p/the-katerra-team-rides-again-onx
+@

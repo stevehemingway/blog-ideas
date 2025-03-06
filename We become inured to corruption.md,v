@@ -1,0 +1,28 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# We become inured to corruption
+
+I remember listening to the “The Rest is History” podcast about Reagan and his rôle in the Iran Contra scandal. The scandal was so complicated, that although Reagan behaved much more corruptly than Nixon did over Watergate, he largely got away with it. Most normal people are not obsessed with politics but can understand that paying people to break into your political opponent’s campaign headquarters is definitely wrong. When it comes to understanding the complicated web of transactions between Hezbollah, Iran, and an obscure guerilla group in Nicaragua, they just tune out, and watch the football instead. 
+
+I am so old, that I can remember hearing about the Contras (and the Sandinistas, who were their opponents) on the news, but I really didn’t understand how outrageous Reagan’s behaviour had been.  I don't suppose I cared very much, because it didn't affect me, and I wasn't interested in developing a framework for understanding how politics works. I still haven't developed the framework, but at least now I'm working on it.
+@

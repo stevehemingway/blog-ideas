@@ -1,0 +1,27 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.02.25.14.52.57;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@AI and markets.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# AI and markets
+
+https://drive.google.com/file/d/184tgms_70fL5P0b1l83qSXk8vpFr4kfl/view?pli=1
+@
