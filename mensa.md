@@ -1,0 +1,20 @@
+Roland Berrill, one of the co-founders of Mensa, originally envisioned the organization as "an aristocracy of the intellect" in Britain. He saw Mensa as a society where the most intelligent individuals could come together, free from social distinctions such as race, religion, or socioeconomic status. The name "Mensa," meaning "table" in Latin, symbolized this round-table concept where members would gather as equals to discuss and engage intellectually[1][4][6].
+
+Berrill's vision was influenced by his elitist views, and he initially hoped that Mensa would attract individuals from more affluent backgrounds. However, he was disappointed to find that many members came from humble homes[1]. Despite this, Mensa was intended to be non-political and inclusive, with the sole qualification for membership being a high IQ score[9][10].
+
+Berrill's role in founding Mensa involved providing the initial funding, writing recruitment pamphlets, and serving as the first Secretary. He played a crucial part in establishing the organization, which eventually grew beyond his original vision to become a global network of intellectually gifted individuals[1][10].
+
+Citations:
+[1] https://en.wikipedia.org/wiki/Roland_Berrill
+[2] https://www.mensa.org/history/
+[3] https://www.independent.co.uk/arts-entertainment/too-clever-by-half-1344906.html
+[4] https://en.wikipedia.org/wiki/Mensa_International
+[5] http://melbourneblogger.blogspot.com/2020/01/history-of-mensa-from-britain-to-world.html
+[6] https://www.thecrimson.com/article/1961/10/21/mensa-psixteen-years-ago-a-wealthy/
+[7] https://mensa.org.uk/about/
+[8] https://mensa.org.uk
+[9] http://emag-mensa.eu/en/mensa
+[10] https://phoenix.us.mensa.org/Info/howMbegan.html
+
+---
+Answer from Perplexity: pplx.ai/share
