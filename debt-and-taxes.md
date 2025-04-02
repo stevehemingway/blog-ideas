@@ -1,0 +1,14 @@
+
+The two certain things in life are death and taxes.
+
+Actually, in the modern world, maybe death is optional, 
+but debt is not. 
+Germany has cut through the cables to the debt brake, and will soon be issuing more bunds.
+The USA is running deficits of around six pc, which means six percent of US income will be spent buying Treasurys.
+Well, that would be the case if foreigners went on a buyers' strike, but actually they all get hoovered up by 
+foreigners, and foreign govts instead. The US gets six pc more stuff than it can make itself (or pay for by exporting), and the people who sell it stuff get bits of paper, nicely printed with the head of some long-dead president.
+
+The point is that for government to consume stuff, the private sector has to forego consuming it.
+For me, you can either tax very rich people, which they don't like, or offer them 'risk free' investments, in the form of 
+Treasurys. The economic effect is the same, at least in the short term. The economic impact is similar: billionaires can consume less stuff in both cases. In the first, the quid pro quo is better roads, schools, hospitals (OK, maybe not the ones that they actually will use), in the second, they get ... their money back, or at least their heirs do.
+
