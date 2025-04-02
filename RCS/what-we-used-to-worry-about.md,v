@@ -1,0 +1,40 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.04.02.12.39.31;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@initial
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@Write an article, personal, about what was not worrying you as a kid:
+
+A few examples:
+
+- the Cold War: never talked about,
+- food,
+- job,
+- affording school,
+- clothing,
+- transport,
+- books,
+- bullying,
+
+- Toshack goes to L'pool,
+- change to FM radio,
+- 
+@
