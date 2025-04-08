@@ -1,4 +1,27 @@
-I do a certain amount of negotiating of rents and sale prices, on behalf a company.
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.04.03.08.26.10;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@initial ver.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@I do a certain amount of negotiating of rents and sale prices, on behalf a company.
 I am not terribly good at this, but I am not completely hopeless. 
 In particular, if I am selling something, I don't draw attention to its negative aspects.
 If I provide comparisons, they are chosen to bolster my position.
@@ -11,3 +34,4 @@ This is the problem with politics.
 
 
 provide information that would be to the advantage of the person I am negoti
+@

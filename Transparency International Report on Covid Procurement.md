@@ -9,11 +9,23 @@ It identified the following concerns.
 - Lack of competition: Over £30.7 billion in contracts (nearly two-thirds by value) were awarded without competitive bidding.
 - Poor transparency: 141 high-value contracts worth £5 billion were published more than a year after being awarded.
 
-You can read more [here](https://www.transparency.org.uk/publications/behind-masks-corruption-red-flags-covid-19-public-procurement), and weep. There is probably a royal commission looking into this, which will report in a decade, when everyone involved has died or gone to the House of Lords.
+You can read more [here](https://www.transparency.org.uk/publications/behind-masks-corruption-red-flags-covid-19-public-procurement), and weep.
+For a while, in the immediate aftermath of the pandemic, these contracts were a national scandal, and were always in the news. But now, the caravan has moved on. We are so transfixed by the spectacle of Trump that we've simply forgotten about this egregious episode.
+
+I think that a common response is "OK, we knew the Tories were corrupt. They screwed us, the taxpayers, during the pandemic, but we've kicked them out so it won't happen again." 
+Really? Losing an election to end up as a lobbyist or a purveyor of dull speeches for millions of pounds [1] is a just punishment?
+
+But a widely held view is that "They (politicians of mainstream parties) are all the same." If this is true, then what is to stop such a scandal, or at least a comparable one, happening again under Labour? Nobody seems to have asked "How can such a scandal happen in a country like ours that has so many rules which are supposed to prevent precisely this sort of thing happening?" 
+
+The same sort of thing seems to have happened in the US. Everyone seems to agree that the US president has too much power, and that it needs to be curtailed, and that this is something they would do when they get back into power. But what actually happens is that once their guy does get back into power, they revel in the power, and even expand the scope of it. All opposition parties in FPTP electoral systems agree that it's a terrible system, right up to the point that they manage to win an election under it.
+
+The common theme is that 'emergency powers' are invoked. Pesky things like oversight, and scrutiny, are too difficult when lives are at stake. So, we they are jettisoned. Except that the guy who is being constrained is the guy who can declare a state of emergency. 
+
+Presidents, of both parties, seem to be able to ignore the checks and balances that one would have hoped constrain them from actions like going into war in Iraq, and invading Afghanistan. 
+
 
 The situation seems to be actually worse in the UK than in other countries. As a Brit, I find this shocking. I knew we were slow, bureaucratic, over-regulated, technophobic, and phobic about electricity in bathrooms. But I didn't know that procurement was as corrupt as in a banana republic. From what I can tell, the Ukraine had far more transparent and fair procurement processes in place. 
 
-I am sure that, in part, the problem was that the party in power, and the guy leading it, didn't trust the public sector to do anything in a sensible timescale. Most successful politicians these days treat running for office as a branch of showbusiness, but Boris Johnson seemed to treat actually governing the country as simply a matter of doing a lot of press conferences. I cannot, though, believe that this is the whole explanation. A lot of people saw the pandemic as a once-in-a-lifetime to get rich at the expense of the taxpayer; they must have influenced the way that this procurement was organized. The fact that the 'VIP Lane' was really a politically connected persons enrichment scheme, suggests that this needed some systemic elimination of the usual protections against procurement corruption.
 
 
 
@@ -29,3 +41,4 @@ When people move in mysterious ways, it's usually about incentives.
 
 Specific Concerns
 
+[1]: <https://www.theguardian.com/politics/2023/feb/08/boris-johnson-advance-payment-speeches>

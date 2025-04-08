@@ -1,0 +1,30 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.04.03.08.26.10;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@little script.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#!/bin/sh
+for file in RCS/*; do
+    if rlog "$file" | grep -q "locks:"; then
+        echo "$(basename "$file" .v) is locked"
+    fi
+done
+@

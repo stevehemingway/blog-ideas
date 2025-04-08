@@ -1,4 +1,27 @@
-Roland Berrill, one of the co-founders of Mensa, originally envisioned the organization as "an aristocracy of the intellect" in Britain. He saw Mensa as a society where the most intelligent individuals could come together, free from social distinctions such as race, religion, or socioeconomic status. The name "Mensa," meaning "table" in Latin, symbolized this round-table concept where members would gather as equals to discuss and engage intellectually[1][4][6].
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.04.03.08.23.26;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@initial version
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@Roland Berrill, one of the co-founders of Mensa, originally envisioned the organization as "an aristocracy of the intellect" in Britain. He saw Mensa as a society where the most intelligent individuals could come together, free from social distinctions such as race, religion, or socioeconomic status. The name "Mensa," meaning "table" in Latin, symbolized this round-table concept where members would gather as equals to discuss and engage intellectually[1][4][6].
 
 Berrill's vision was influenced by his elitist views, and he initially hoped that Mensa would attract individuals from more affluent backgrounds. However, he was disappointed to find that many members came from humble homes[1]. Despite this, Mensa was intended to be non-political and inclusive, with the sole qualification for membership being a high IQ score[9][10].
 
@@ -18,3 +41,4 @@ Citations:
 
 ---
 Answer from Perplexity: pplx.ai/share
+@
