@@ -1,0 +1,47 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2025.04.10.09.17.09;	author steve;	state Exp;
+branches;
+next	;
+
+
+desc
+@a note about how the new scarce resource is global monopoly. Winner-take-all for operating systems.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@
+I don't wear a trilby. I don't wear a bow tie. I am very conventional in my dress
+and other habits.
+
+I don't do any dangerous sports, or travel to exotic places. 
+I am pretty boring. But I do have one eccentric habit, which is that I run
+a desktop operating system that is neither Windows nor MacOS. 
+
+I used to have a motorcar that constantly broke down. I always travelled with a toolbox in the boot.
+Mostly, the faults were minor, and I found I could make some running repairs to get me home.
+The car was old, and mechanically simple. I would not choose to travel by such a vehicle now,
+but I did learn something about how cars worked every time it failed.
+
+I have a similar attitude to my operating system now. Linux is fantastic, but Wayland, X11 and Gnome
+are a work in progress, compared to the Windows equivalents, especially with anything but utterly
+standard hardware. 
+
+Well, I recently switched from Wayland to X11. Wayland is a shiny new windowing system, 
+which is the default for Fedora now. X11 is an ancient windowing system that dates from the 
+paleolithic era, which is an alternative 
+
+
+  
+@
