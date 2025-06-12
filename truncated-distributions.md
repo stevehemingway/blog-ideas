@@ -1,3 +1,51 @@
 # Maybe we should start thinking harder about truncated distributions
 
+A very long time ago, when I was about twelve years old, a teacher discussed with the class
+the process of normalizing exam scores. We were barely out of primary school, but he 
+treated us like adults. Children are adults too, and can understand complex ideas if you explain them well enough.
+
+Anyway, he went through the idea of normal (Gaussian) distributions, and how this was a good
+approximation for many things in life, including heights, IQ, and so on. But then
+he started talking about our class, which was streamed, i.e. we had already been selected 
+for some sort of academic ability. The 11-Plus exam had had been ended, just a few years before, 
+but we were the first intake of students who had not been selected by that exam.
+
+His argument was that if the selection process was perfect, and that exam scores were a perfect
+proxy for academic ability, he would expect just the top 40% of the Gaussian distribution (and 
+that therefore his normalization process was flawed). He genuinely didn't have an answer for this,
+even though he probably tried creating a frequency histogram of our scores. Occasionally, 
+over the years, I have thought about this, and wondered what the real answer was.
+
+Much later, I worked in large corporations, with their various appraisal processes, which mostly 
+seemed to de-motivate everyone involved. I have never yet an employee yet who was happy with their appraisal,
+and their pay review. In education, there is usually a denial that exams are 'graded on a curve'. Educators
+will claim some sort of perfect pitch, which allows them to grade students across time. 
+I am skeptical of this, but that's a topic for another post.
+
+From what I can recall, the instructions for appraisals are that no manager is allowed to 
+say that their team is all above average. Ten percent have to be 'a bit rubbish', or worse.
+But we all know that managers vary a great deal, and it's reasonable to assume that some
+are much better than others at hiring, just as some are much better than others at setting
+realistic goals, and so on. And, of course, the worse a manager is at maximizing the performance of his team,
+the smaller his team will be, all too often.
+
+The general principle of corporate appraisal systems is that employees should be paid according to
+their performance, which is, presumably, a proxy for their contribution to the company. 
+Ignoring, for a moment, that not everyone works for a corporate, this would imply that 
+a country's income distribution should be Gaussian, or at least close to it. In fact, even if
+individual company's pay distributions were not gaussian, the aggregate distribution of pay across all companies should be Gaussian, accoring to the central limit theorem, so this is a very weak assumption. But, we know that
+income distributions are not Gaussian, and that they are, in fact, Pareto-distributed, which is very 
+different. I am not a good enough statistician to prove that the sum of a large number of Pareto-distributed variables is also Pareto-distributed, but I would be surprised if it was. 
+
+Keynes avoided discussion of income distribution in his General Theory, although he did talk about the distribution of wealth, which is a different, though related, topic. He wanted to aggregate labour as a single factor of production, and argued that although individuals differed, the aggregate of labour was a single factor, which could be treated as a single variable, because you could replace population with 'wage units', which was strictly proportional to population. This is all very well, for his ideas about aggregate demand, but modern economies are largely regulated by
+interest rate management, which simply shifts income between creditors and debtors. In order for this to have
+and impact on aggregate demand, it has to be the case that the two groups have different marginal propensities to consume, which seems reasonable for a Pareto distribution, but not for a Gaussian distribution. 
+
+Lawyers are told never to ask a question that they don't know the answer to, and I think that this is a good rule for substack posts too, but in this case, I am genuinely not sure what the answer is. And I have never seen a good answer either. 
+
+My first love was statistical mechanics, which is all about distributions. Boltzmann, Maxwell, and Gibbs all worked on distributions, and seem to have cracked all the difficult problems, at least for classical systems. Bose and Fermi, and Einstein, worked on quantum distributions, and again, they seem to have cracked all the difficult problems. There are lots of very smart economists in the world. I don't understand why they are so incurious about distributions. I feel sad that I don't even have a good answer to how to normalize exam scores, let alone how to normalize employee performance scores or national income distributions.
+
+
+This post is in part a response to Tim Dellinger's post about ranking employees, on Substack, which you can read here:
+
 <https://timdellinger.substack.com/p/hey-wait-is-employee-performance>
