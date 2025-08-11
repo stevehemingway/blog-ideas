@@ -1,0 +1,36 @@
+Advantages of Design and Build over Traditional Route:
+
+1. Single Point Responsibility:
+- One contractor handles both design and construction
+- Reduces finger-pointing between designer and builder
+- Clear accountability for project success
+
+2. Cost Efficiency:
+- Early cost estimating and value engineering
+- Design tailored to construction methods
+- Reduces change orders and cost overruns
+
+3. Time Savings:
+- Concurrent design and construction planning
+- Faster project delivery
+- Earlier occupancy/usage
+
+4. Improved Communication:
+- Collaborative team approach
+- Better understanding of construction practicalities
+- Reduced misunderstandings
+
+5. Quality Assurance:
+- Design-for-construction approach
+- Constructability reviews
+- Higher quality finishes
+
+6. Risk Management:
+- Early identification of potential issues
+- Proactive problem solving
+- Better contingency planning
+
+7. Sustainability Focus:
+- Integrated design for energy efficiency
+- Material optimization
+- Better environmental performance
