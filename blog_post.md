@@ -1,0 +1,22 @@
+
+# The World is Drifting Towards Fascism
+
+The world is drifting towards fascism, and it's not just the obvious culprits that are to blame. The signs are everywhere, from the growing hostility towards immigration and ethnic minorities, to the increasing control of the press and social media by oligarchs and governments. The rise of militarism, the expansion of state surveillance, and the erosion of digital privacy are all hallmarks of a fascist drift.
+
+One of the most insidious aspects of this drift is the way in which it is being normalized. Politicians and media outlets are using language that was once considered extreme, and are now being presented as mainstream. The rhetoric of hostility towards immigration and ethnic minorities is becoming increasingly common, and is being used to justify policies that were once considered unacceptable.
+
+The control of the press and social media by oligarchs and governments is also a key feature of the fascist drift. In many countries, the media is being used to promote a particular narrative, and to suppress dissenting voices. This is not just limited to authoritarian regimes, but is also happening in countries that were once considered to be bastions of democracy.
+
+The rise of militarism is also a worrying trend. In many countries, military spending is increasing, and the use of military force is being justified as a means of solving problems. This is not just limited to international conflicts, but is also being used to justify the use of force against domestic populations.
+
+The expansion of state surveillance is another key feature of the fascist drift. Governments are using a variety of means to monitor their citizens, from CCTV cameras to online surveillance. This is being justified as a means of keeping people safe, but it is also being used to suppress dissent and opposition.
+
+The decline of digital privacy is also a major concern. Governments are using the guise of child protection to justify the erosion of digital privacy, and to expand their surveillance powers. This is not just limited to the monitoring of online activity, but also includes the collection of personal data and the use of encryption backdoors.
+
+In the UK, the Labour Party, which is traditionally progressive and inclusive, is copying the rhetoric and policies of Reform, the party of the proto-fascist, Nigel Farage. This is a worrying trend, and one that is being driven by a desire to win votes, rather than to stand up for principle. By adopting the rhetoric and policies of the right, Labour is helping to normalize the fascist drift, and is making it more difficult to resist.
+
+The consequences of this drift are severe. If we allow it to continue, we risk losing the freedoms and protections that we have fought so hard to win. We risk creating a society in which dissent is suppressed, and in which the state has unlimited power over the individual.
+
+It's time to wake up to the reality of the fascist drift, and to take action to resist it. We need to stand up for our rights and freedoms, and we need to challenge the politicians and media outlets that are promoting this agenda. We need to promote a culture of inclusivity, tolerance, and respect, and we need to reject the rhetoric of hostility and division.
+
+The future of our democracy depends on it.
