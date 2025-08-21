@@ -1,0 +1,15 @@
+I recently attended a comedy night where scientists took the stage, and let me tell you, it was a real laugh riot – or should I say, a cry fest? The comedians were, how can I put it, delightfully miserable.
+
+University life is a blast, and doing a PhD is like being part of a exclusive club, especially if you get the golden ticket – funding. But then, reality hits: no jobs, or at least not ones that pay more than a barista's wages. The vibe I got was that these brainiacs were stuck in a never-ending cycle of poverty.
+
+These gifted young (and not-so-young) folks were hilarious, but their jokes were laced with bitterness about their meager salaries. One comedian based his entire set on the thrilling world of grant applications – because, apparently, that's what post-docs spend most of their time doing. It's like a never-ending game of "who can write the most captivating proposal," but with only one winner. Talk about a sinkhole of talent!
+But, I guess when all intellectuals retire to the pub, what they mostly talk about is money, after all.
+
+Another performer hilariously described her day job: writing protocols for putting samples into a DNA sequencing machine. It's all about pipettes – lots and lots of pipettes. I was a sort of chemist once, but when I did research it was all done with maths and computers. I hadn't handled a pipette since the sixth form. It seems now that you need a PhD to handle one, and a post-doc to write instructions on how to operate one (or, maybe a big array: I don't want to undervalue the skill involved). 
+I know that science is hands on, with a very flat hierarchy. But…really!
+
+The show was entertaining, but I felt for the performers. They'd jumped through all the hoops, and yet, the system had left them high and dry. No pot of gold, just a nice gown to wear for a few hours, and then a life of toil.
+
+The UK government's big on investing in infrastructure between Oxford and Cambridge to boost productivity. But maybe they should try a different approach: manpower planning. It's time to stop churning out PhDs like they're going out of style and either create more jobs or tell universities to stop accepting so many grad students. Cambridge limits its undergrad numbers, but grad students just keep on coming. It's like a never-ending supply of skilled labour so that there is never a shortage of post-docs. The medics know how do deal with this: get a strong union (the BMA, possibly the most powerful union in Britain), and an agreement with the government to keep admissions for medicine courses at British universities running at about 30% of that which would be needed to fill all the jobs available in the NHS.
+
+It's hard to feel sorry for a Cambridge grads: they'll always have a job, even if it's not in a hallowed grove of academe. But they do, in reality, have a raw deal. They are quick learners, and most managed to learn how to tell jokes well enough to make the audience laugh, even their personalities were not what you might politely describe as ideally suited to doing stand-up. 
