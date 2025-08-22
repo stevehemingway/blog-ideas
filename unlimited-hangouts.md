@@ -18,5 +18,6 @@ Some of the topics covered in the "Unlimited Hangouts" podcast include:
 - The 'Genius Act', a proposed legislation, and the individuals and interests behind it, potentially shaping the future of technology and innovation.
 - The complex and often dark history of figures like Ghislaine Maxwell and her father Robert Maxwell, and their alleged links to the Israeli secret service, Mossad, highlighting the intricate web of power, espionage, and influence that often underlies high-profile scandals.
 - Project2025, a significant initiative with potential far-reaching implications, and its connections to influential figures such as Peter Thiel, underscoring the complex interplay between technology, politics, and power.
+- The Heritage Foundation, a prominent think tank, and its role in shaping conservative policies and ideologies, as well as the Lewis F. Powell Jr. Memorandum, a 1971 document that outlined a strategy for corporate America to regain influence and shape public discourse, highlighting the ongoing impact of these efforts on contemporary politics and society.
 
 The podcast is known for its thought-provoking discussions and in-depth analysis, making it a valuable resource for those interested in exploring the more nuanced and often controversial aspects of current events.
