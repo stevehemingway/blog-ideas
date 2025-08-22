@@ -11,6 +11,10 @@ Whitney Webb is an investigative journalist and podcaster known for her in-depth
 In it she makes a convincing case that he was closely linked to the various US 'three letter agencies' (CIA, NSA, FBI etc.). 
 Even if she's not right, she gives quite a lot of historical colour to what these agencies have got up to over the years.
 
+I think that Whitney started Unlimited Hangouts, but she has now assembled a team of half a dozen writers. 
+Maybe this just means she's funded by the Russians, or by the Iranians. Who knows?
+She is a US person, but lived in Chile for quite a while. I wonder if that's because she wanted some measure of freedom from surveillance.
+
 ## Topics Covered
 
 Some of the topics covered in the "Unlimited Hangouts" podcast include:
