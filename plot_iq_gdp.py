@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-# Data from IQ-and-national-income.md
 data = [
  ("Singapore",108,64133),
  ("South Korea",106,34994),
@@ -22,24 +21,18 @@ data = [
  ("Ethiopia",63,2423),
 ]
 
-# Extract data into separate lists
 countries = [d[0] for d in data]
 iq_values = [d[1] for d in data]
 gdp_values = [d[2] for d in data]
 
-# Create scatter plot
 plt.figure(figsize=(10,6))
 plt.scatter(iq_values, gdp_values)
 
-# Annotate points with country names
 for i, country in enumerate(countries):
- plt.annotate(country, (iq_values[i], gdp_values[i]), fontsize=16)
+ plt.annotate(country, (iq_values[i], gdp_values[i]), fontsize=8)
 
-# Set labels and title
 plt.xlabel("Average IQ", fontsize=16)
 plt.ylabel("GDP per capita (USD)", fontsize=16)
 plt.title("Average IQ vs GDP per capita", fontsize=18)
-
-# Show plot
 plt.tick_params(axis='both', labelsize=14)
-plt.show()
+plt.savefig('plot_iq_gdp.png', bbox_inches='tight')
