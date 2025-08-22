@@ -1,10 +1,15 @@
 # Unlimited Hangouts Podcast Summary
 
 The "Unlimited Hangouts" podcast, hosted by Whitney Webb, explores a wide range of topics including conspiracy theories, government surveillance, and the intersection of technology and society.
+It's full of conspiracy theories, but it's also enjoyable to listen to. 
+Even if you discount most of it, at least you get an idea about why some people hold the views that they do. 
+If you are worried about going down the rabbit hole, just remember that Alice returned home safely in the end.
 
 ## Background on Whitney Webb
 
-Whitney Webb is an investigative journalist and podcaster known for her in-depth research into various conspiracy theories and controversial topics. She has gained a following for her detailed analysis and critical thinking.
+Whitney Webb is an investigative journalist and podcaster known for her in-depth research into various conspiracy theories and controversial topics. She has gained a following for her detailed analysis and critical thinking. Her magnum opus is her book on Jeffrey Epstein, which fills two volumes. 
+In it she makes a convincing case that he was closely linked to the various US 'three letter agencies' (CIA, NSA, FBI etc.). 
+Even if she's not right, she gives quite a lot of historical colour to what these agencies have got up to over the years.
 
 ## Topics Covered
 
