@@ -1,1 +1,12 @@
 .aider*
+*.blg
+*.bbl
+*.aux
+*.out
+*.pdf
+*.log
+*.bib
+*.fls
+*.fdb_latexmk
+*.html
+*.png
