@@ -5,7 +5,6 @@
 *.out
 *.pdf
 *.log
-*.bib
 *.fls
 *.fdb_latexmk
 *.html
