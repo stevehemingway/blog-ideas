@@ -1,0 +1,4 @@
+Spain has a lot of generation via renewables, and yet has much, much cheaper electricity than the UK. (https://www.omie.es/en/market-results/daily/daily-market/day-ahead-price). My guess is that (i) solar panels just don't work that well in a cloudy, northern country and (ii) wind turbines are an expensive way of generating power, even in a windy country like ours. 
+
+We've spent a lot of money subsidising renewables, even though our contribution to total CO2 output is very modest, presumably to set an example to the rest of the world. But the brutal truth is that they are ignoring us. Global fuel consumption now is two and a half times what it was in 1970, and has barely changed since 2010, in spite of countries like ours retiring all our coal plants, because India and China open new ones quicker than the rest of the world close ours.
+
