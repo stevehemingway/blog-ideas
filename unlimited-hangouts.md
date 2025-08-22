@@ -13,5 +13,6 @@ Some of the topics covered in the "Unlimited Hangouts" podcast include:
 - The role of technology in shaping modern society
 - Conspiracy theories and their implications
 - Critical analysis of mainstream narratives
+- The influence of tech moguls and the so-called 'PayPal Mafia', a group of entrepreneurs and investors who got their start at PayPal, including Peter Thiel, co-founder of PayPal and founder of Palantir, a data analytics company known for its work with government agencies and its role in shaping the global surveillance state.
 
 The podcast is known for its thought-provoking discussions and in-depth analysis, making it a valuable resource for those interested in exploring the more nuanced and often controversial aspects of current events.
