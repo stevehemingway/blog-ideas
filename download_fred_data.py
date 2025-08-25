@@ -13,7 +13,17 @@ fred = Fred(api_key)
 # Download data
 data = {}
 for series_id in series_ids:
-    data[series_id] = fred.get_series(series_id)
+    try:
+        data[series_id] = fred.get_series(series_id, observation_start='1989-01-01')
+        if data[series_id] is None or data[series_id].empty:
+            print(f"Warning: No data retrieved for series {series_id}")
+    except Exception as e:
+        print(f"Error retrieving series {series_id}: {str(e)}")
+
+# Check if data is available
+if not data or any(df is None or df.empty for df in data.values()):
+    print("No data available. Exiting.")
+    exit()
 
 # Create a DataFrame
 df = pd.DataFrame(data)
@@ -22,13 +32,13 @@ df = pd.DataFrame(data)
 df["ratio"] = df["WFRBLTP1228"] / df["WFRBLB50086"]
 
 # Normalize the data to 1989 values
-df_normalized = df / df.loc[df.index.year == 1989] * 100
+df_normalized = df / df.loc[df.index.year == 1989].iloc[0] * 100
 
 # Create a table
-table = df_normalized.loc[df_normalized.index.year == df_normalized.index.year.max()]
+latest_year = df_normalized.index.year.max()
 table = pd.DataFrame({
-    "Top 0.1% Checking Deposits": [df_normalized["WFRBLTP1228"].iloc[-1]],
-    "Bottom 50% Checking Deposits": [df_normalized["WFRBLB50086"].iloc[-1]],
+    "Top0.1% Checking Deposits": [df_normalized["WFRBLTP1228"].iloc[-1]],
+    "Bottom50% Checking Deposits": [df_normalized["WFRBLB50086"].iloc[-1]],
     "Ratio": [df_normalized["ratio"].iloc[-1]]
 })
 
