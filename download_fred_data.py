@@ -26,13 +26,28 @@ if not data or any(df is None or df.empty for df in data.values()):
  exit()
 
 # Create a DataFrame
-df = pd.DataFrame(data)
+try:
+ df = pd.DataFrame(data)
+except Exception as e:
+ print(f"Error creating DataFrame: {str(e)}")
+ exit()
 
 # Calculate the ratio
-df["ratio"] = df["WFRBLTP1228"] / df["WFRBLB50086"]
+try:
+ df["ratio"] = df["WFRBLTP1228"] / df["WFRBLB50086"]
+except ZeroDivisionError:
+ print("Error: Division by zero when calculating ratio.")
+ exit()
+except Exception as e:
+ print(f"Error calculating ratio: {str(e)}")
+ exit()
 
 # Normalize the data to 1989 values
-df_normalized = df / df.loc[df.index.year == 1989].iloc[0] * 100
+try:
+ df_normalized = df / df.loc[df.index.year == 1989].iloc[0] * 100
+except Exception as e:
+ print(f"Error normalizing data: {str(e)}")
+ exit()
 
 # Create a table with all dates
 table = pd.DataFrame({
