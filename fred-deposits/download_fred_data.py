@@ -14,50 +14,50 @@ fred = Fred(api_key)
 # Download data
 data = {}
 for series_id in series_ids:
-    try:
-        data[series_id] = fred.get_series(series_id, observation_start='1989-01-01')
-    except Exception as e:
-        print(f"Error retrieving series {series_id}: {str(e)}")
-    if data.get(series_id) is not None and not data[series_id].empty:
-        print(f"Warning: Data retrieved for series {series_id}")
-    else:
-        print(f"Warning: No data retrieved for series {series_id}")
+ try:
+ data[series_id] = fred.get_series(series_id, observation_start='1989-01-01')
+ except Exception as e:
+ print(f"Error retrieving series {series_id}: {str(e)}")
+ if data.get(series_id) is not None and not data[series_id].empty:
+ print(f"Warning: Data retrieved for series {series_id}")
+ else:
+ print(f"Warning: No data retrieved for series {series_id}")
 
 # Check if data is available
 if not data or any(df is None or df.empty for df in data.values()):
-    print("No data available. Exiting.")
-    exit()
+ print("No data available. Exiting.")
+ exit()
 
 # Create a DataFrame
 try:
-    df = pd.DataFrame(data)
+ df = pd.DataFrame(data)
 except Exception as e:
-    print(f"Error creating DataFrame: {str(e)}")
-    exit()
+ print(f"Error creating DataFrame: {str(e)}")
+ exit()
+
+# Adjust the data for equivalent number of depositors
+try:
+ df["WFRBLB50086_adjusted"] = df["WFRBLB50086"] / 500
+except Exception as e:
+ print(f"Error adjusting data: {str(e)}")
+ exit()
 
 # Calculate the ratio
 try:
-    df["ratio"] = df["WFRBLTP1228"] / df["WFRBLB50086"]
+ df["ratio"] = df["WFRBLTP1228"] / df["WFRBLB50086_adjusted"]
 except ZeroDivisionError:
-    print("Error: Division by zero when calculating ratio.")
-    exit()
+ print("Error: Division by zero when calculating ratio.")
+ exit()
 except Exception as e:
-    print(f"Error calculating ratio: {str(e)}")
-    exit()
-
-# Normalize the data to 1989 values
-try:
-    df_normalized = df / df.loc[df.index.year == 1989].iloc[0] * 100
-except Exception as e:
-    print(f"Error normalizing data: {str(e)}")
-    exit()
+ print(f"Error calculating ratio: {str(e)}")
+ exit()
 
 # Create a table with all dates
 table = pd.DataFrame({
-    "Date": df_normalized.index.strftime('%Y-%m-%d'),
-    "Top0.1% Checking Deposits": df_normalized["WFRBLTP1228"],
-    "Bottom50% Checking Deposits": df_normalized["WFRBLB50086"],
-    "Ratio": df_normalized["ratio"]
+ "Date": df.index.strftime('%Y-%m-%d'),
+ "Top 0.1% Checking Deposits": df["WFRBLTP1228"],
+ "Bottom 50% Checking Deposits (adjusted)": df["WFRBLB50086_adjusted"],
+ "Ratio": df["ratio"]
 })
 
 # Print the table in Markdown format
@@ -65,10 +65,10 @@ print(table.to_markdown(index=False))
 
 # Plot the ratio over time
 plt.figure(figsize=(10,6))
-plt.plot(df_normalized.index, df_normalized["ratio"])
-plt.title('Ratio of Top0.1% to Bottom50% Checking Deposits Over Time', fontsize=24)
+plt.plot(df.index, df["ratio"])
+plt.title('Ratio of Top 0.1% to Bottom 50% Checking Deposits Over Time', fontsize=24)
 plt.xlabel('Year', fontsize=20)
-plt.ylabel('Ratio (Normalized to 1989)', fontsize=20)
+plt.ylabel('Ratio', fontsize=20)
 plt.grid(True)
 plt.xticks(fontsize=16)
 plt.yticks(fontsize=16)
