@@ -2,7 +2,7 @@ import pandas as pd
 from fredapi import Fred
 
 # FRED API Key
-api_key = "your_fred_api_key"
+api_key = "e13c8cee393d1c8cb726df61858ff73a"
 
 # Series IDs
 series_ids = ["WFRBLTP1228", "WFRBLB50086"]
