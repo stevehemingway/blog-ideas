@@ -5,14 +5,15 @@ import argparse
 
 # Parse command-line arguments
 parser = argparse.ArgumentParser(description='Download FRED data and calculate ratio')
-parser.add_argument('series_ids', type=str, nargs=2, help='FRED series IDs (top 0.1% and bottom 50%)')
+parser.add_argument('top_series_id', type=str, help='FRED series ID for top 0.1%')
+parser.add_argument('bottom_series_id', type=str, help='FRED series ID for bottom 50%')
 args = parser.parse_args()
 
 # FRED API Key
 api_key = "e13c8cee393d1c8cb726df61858ff73a"
 
 # Series IDs from command-line arguments
-series_ids = args.series_ids
+series_ids = [args.top_series_id, args.bottom_series_id]
 
 # Create a FRED object
 fred = Fred(api_key)
@@ -43,14 +44,14 @@ except Exception as e:
 
 # Adjust the data for equivalent number of depositors
 try:
- df["adjusted"] = df[series_ids[1]] / 500
+ df["adjusted"] = df[args.bottom_series_id] /500
 except Exception as e:
  print(f"Error adjusting data: {str(e)}")
  exit()
 
 # Calculate the ratio
 try:
- df["ratio"] = df[series_ids[0]] / df["adjusted"]
+ df["ratio"] = df[args.top_series_id] / df["adjusted"]
 except ZeroDivisionError:
  print("Error: Division by zero when calculating ratio.")
  exit()
@@ -61,8 +62,8 @@ except Exception as e:
 # Create a table with all dates
 table = pd.DataFrame({
  "Date": df.index.strftime('%Y-%m-%d'),
- f"{series_ids[0]}": df[series_ids[0]],
- f"{series_ids[1]} (adjusted)": df["adjusted"],
+ f"{args.top_series_id}": df[args.top_series_id],
+ f"{args.bottom_series_id} (adjusted)": df["adjusted"],
  "Ratio": df["ratio"]
 })
 
