@@ -1,1 +1,0 @@
-plt.savefig('ratio_over_time.png', bbox_inches='tight')
