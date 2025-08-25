@@ -16,10 +16,12 @@ data = {}
 for series_id in series_ids:
  try:
  data[series_id] = fred.get_series(series_id, observation_start='1989-01-01')
- if data[series_id] is None or data[series_id].empty:
- print(f"Warning: No data retrieved for series {series_id}")
  except Exception as e:
  print(f"Error retrieving series {series_id}: {str(e)}")
+ if data.get(series_id) is not None and not data[series_id].empty:
+ print(f"Warning: Data retrieved for series {series_id}")
+ else:
+ print(f"Warning: No data retrieved for series {series_id}")
 
 # Check if data is available
 if not data or any(df is None or df.empty for df in data.values()):
@@ -64,7 +66,7 @@ print(table.to_markdown(index=False))
 # Plot the ratio over time
 plt.figure(figsize=(10,6))
 plt.plot(df_normalized.index, df_normalized["ratio"])
-plt.title('Ratio of Top 0.1% to Bottom 50% Checking Deposits Over Time')
+plt.title('Ratio of Top0.1% to Bottom50% Checking Deposits Over Time')
 plt.xlabel('Year')
 plt.ylabel('Ratio (Normalized to 1989)')
 plt.grid(True)
