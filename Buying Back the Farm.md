@@ -3,7 +3,7 @@
 View this post on the web at https://www.yesigiveafig.com/p/buying-back-the-farm
 
 Summary:
-Common financial theories about corporate share buybacks and their impact on market dynamics are flawed on both sides. The Modigliani Miller dividend irrelevance theorem is irrelevant in practice and do not account for the realities of market operation.
+Common financial theories about corporate share buybacks and their impact on market dynamics are flawed on both sides. The Modigliani Miller dividend irrelevance theorem is irrelevant in practice and does not account for the realities of market operation.
 The nature of the shareholder base and the company's dividend policy significantly affect the market impact of buybacks, and inelastic markets are key to shaping stock prices and market movements. Dividends and buybacks are not equivalent in their effect on markets, challenging prevailing financial theories and practices.
 Institutional Subscribers: Last week’s recording was corrupted, and I apologize. If there is interest, I’m happy to host a second call on Friday, April 19th. Please reach out directly and let me know. 
 Due to Delay, No Top Comment

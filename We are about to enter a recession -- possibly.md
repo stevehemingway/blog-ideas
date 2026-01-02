@@ -2,7 +2,7 @@
 
 https://www.ft.com/content/c074dde0-7510-44c0-a178-8ca80254dfb1
 
-Peter Berezin has been pushing this thesis for a while. Of course, eventually he'll be right. Most professionals don't agree, but there some markets seem to think the prediction is plausible:
+Peter Berezin has been pushing this thesis for a while. Of course, eventually he'll be right. Most professionals don't agree, but some markets seem to think the prediction is plausible:
 
 - US 10Y yields below 4%, even with inflation surely still hovering around that level,
 - China close to stall speed on an economy that's precariously positioned. China is an aging society, with most saving funnelled into the most unproductive asset of all: real estate, especially residential RE (both at home and abroad),

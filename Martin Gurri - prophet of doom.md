@@ -2,7 +2,7 @@
 
 A lot of content you read is about how polarized Substack is, and how the mainstream media is toast.
 
-There are a couple of Capitalisn't episodes about the Google advertising monopoly case, which shows how Google has largely swallowed a whole industry, which kept the mainsteam media alive.
+There are a couple of Capitalisn't episodes about the Google advertising monopoly case, which shows how Google has largely swallowed a whole industry, which kept the mainstream media alive.
 
 [This idea needs work.] Maybe, the problem is something to do with the idea that (e.g.) newspapers simply wanted to appeal to as broad an audience as possible, and so naturally avoided alienating any readers. They may have had political axes to grind (or their owners did), but it was done subliminally, to the extent that large numbers of readers of the Daily Mirror still voted Conservative.
 

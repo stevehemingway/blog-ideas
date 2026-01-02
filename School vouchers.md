@@ -9,7 +9,7 @@ One issue is school choice. Milton advocated for the use of vouchers. Parents wo
 
 Well, apparently, it doesn't work so well: Propublica has a piece, [here](https://www.propublica.org/article/arizona-school-vouchers-esa-private-schools) about the problem, which is that poor parents can't afford the transport costs to get their kids to the best schools, which tend to be in the posh neighbourhoods.
 
-A less radical proposal was to select kids by ballot, when a school is over-subscribed. (In the UK, at the end of primary school, you can choose maybe three local schools you'd like to send you kid to, and rank them in order of preference.) Some schools, when they had too many first-choice applicants, use a ballot to choose a subset. This was ruled illegal, by Ed Balls, education minister at the time.
+A less radical proposal was to select kids by ballot, when a school is over-subscribed. (In the UK, at the end of primary school, you can choose maybe three local schools you'd like to send your kid to, and rank them in order of preference.) Some schools, when they had too many first-choice applicants, use a ballot to choose a subset. This was ruled illegal, by Ed Balls, education minister at the time.
 
 Alastair Campbell, a big beat Labour figure, argued that choice was all wrong. The solution was to make every school excellent. Somehow, this seems an accepted argument, even though it makes no sense to me.
 

@@ -16,7 +16,7 @@ If you can’t read this email. Please view online (https://us7.campaign-archive
 
 ** Seinfeld on When Money Became Everything (https://awealthofcommonsense.us7.list-manage.com/track/click?u=119792921d353d5c31ea3b6a5&id=2eb5d142e0&e=cfd803ad21)
 ------------------------------------------------------------
-If your work is unfullfilling, the money will be too. The post Seinfeld on When Money Became Everything appeared first on A Wealth of Common Sense. ...
+If your work is unfulfilling, the money will be too. The post Seinfeld on When Money Became Everything appeared first on A Wealth of Common Sense. ...
 Read on » (https://awealthofcommonsense.us7.list-manage.com/track/click?u=119792921d353d5c31ea3b6a5&id=81931e9f81&e=cfd803ad21)
 
 

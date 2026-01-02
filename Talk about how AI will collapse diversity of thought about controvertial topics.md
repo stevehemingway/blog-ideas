@@ -1,4 +1,4 @@
-# Talk about how AI will collapse diversity of thought about controvertial topics
+# Talk about how AI will collapse diversity of thought about controversial topics
 
 T
 

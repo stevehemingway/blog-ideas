@@ -2,6 +2,6 @@
 
 https://open.substack.com/pub/kevinerdmann/p/upside-down-capm-part-4-the-fed-rate?r=nmbt&utm_campaign=post&utm_medium=email
 
-He posits two distinct asset types, with interest rates being determined by changes in risk appetite, as savers move from simply want to defer their spending power to wanting to get a return on their investments. He argues that there is a negative real return to fixed income, relative to real assets, which return a flat 6%, expected. 
+He posits two distinct asset types, with interest rates being determined by changes in risk appetite, as savers move from simply wanting to defer their spending power to wanting to get a return on their investments. He argues that there is a negative real return to fixed income, relative to real assets, which return a flat 6%, expected. 
 
 Certainly, thinking about all interest rates as simply being "the price of money" or the "marginal return on capital" might be too simplistic.

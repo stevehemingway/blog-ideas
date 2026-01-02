@@ -18,7 +18,7 @@ Bring in something about Veblen and conspicuous consumption.
 Mention something about how scammers are much more prevalent now because:
 
 - it's much more easy to locate easy 'marks',
-- it's much easier disappear into the crowd, now, because the crowd is so much bigger.
+- it's much easier to disappear into the crowd, now, because the crowd is so much bigger.
 
 
 ----------

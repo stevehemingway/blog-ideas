@@ -8,7 +8,7 @@ Interest in politics is a luxury belief. People on the margins, of managing, or 
 
 Unfortunately, politicians take on board what they hear on the doorstep. They take on board that policies really don't matter. Image, soundbites, appearing on Strictly, not letting a billionaire buy your glasses for you, being a football supporter and going to matches. These all matter much more. 
 
-One thing that really, *really* doesn't matter, for a backbench MP, is diligiently reading all the bills forensically and holding the executive to account. That one thing that, literally, has a zero yield, in terms of votes gained. Sigh.
+One thing that really, *really* doesn't matter, for a backbench MP, is diligently reading all the bills forensically and holding the executive to account. That one thing that, literally, has a zero yield, in terms of votes gained. Sigh.
 
 
 

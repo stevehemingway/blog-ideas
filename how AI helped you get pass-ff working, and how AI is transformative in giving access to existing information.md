@@ -1,0 +1,12 @@
+# Write an article about how AI helped you get pass-ff working, and how AI is transformative in giving access to existing information
+
+Get Claude or someone to write an outline. 
+
+Mention how you'd repeatedly failed to get the Firefox add-on pass-ff to work. 
+
+Talk about what pass-ff is.
+
+Talk about gpg and passwords and syncing and logs etc.
+
+Talk about how the important problems have no solutions, but are a matter of how to strike a balance between competing forces.
+

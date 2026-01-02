@@ -1,7 +1,7 @@
 # Good mission statements and real mission statements
 
 
-Milton Friedman said that companies only duty was to make money for their shareholders. 
+Milton Friedman said that a company's only duty was to make money for their shareholders. 
 All other stakeholders were to be rewarded, but only up to the limit set by their contractual entitlement and statutory protections.
 Shareholders have no contractual rights, but take the residual risk of a company failing, 
 so should be entitled to the totality of the residual income (if any).

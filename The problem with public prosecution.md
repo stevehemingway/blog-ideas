@@ -6,7 +6,7 @@ It's easy to understand why having a public body bring a prosecution against som
 
 Something that shocked me a lot was that a relatively junior policeman of my acquaintance told me about a case he wanted to pursue. It was a serious offence, but collecting the evidence was going to take a lot of resources. His sergeant (well, some sort of superior officer) told him that they could not afford to investigate the case, and that he should focus on ones which were easy to solve.
 
-I just got an email from Companies House saying that they were going to be 'more robust' in checking submissions. I can't help thinking that this will simply put an extra burden on small-scale companies like mine, that always strive to submit everything required, and that the officers on the front like will quietly drop chasing companies that are evasive and reluctant to supply information.
+I just got an email from Companies House saying that they were going to be 'more robust' in checking submissions. I can't help thinking that this will simply put an extra burden on small-scale companies like mine, that always strive to submit everything required, and that the officers on the front line will quietly drop chasing companies that are evasive and reluctant to supply information.
 
 I've spent a lot of time recently giving information to banks, to prove that I am not running a people-trafficking or drug-running operation. This seems to involve providing a lot of data about my mother's maiden name and recent transactions that I've made. 
 

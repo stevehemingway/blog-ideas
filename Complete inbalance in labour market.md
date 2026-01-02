@@ -1,4 +1,4 @@
-# Complete inbalance in labour market
+# Complete imbalance in labour market
 
 Vast excess of investment bankers, vast deficiency of bricklayers.
 
