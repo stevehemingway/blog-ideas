@@ -11,7 +11,6 @@ We could mix in some stuff about expectations, so we might posit that we buy lot
 
 We actually consume stuff that has zero utility, stuff that cannot, in any meaningful sense, increase our utility, other than somehow making us feel better about ourselves.
 
-
 They don't do any good, but they make people feel better.
 
 Same with CCTV.
