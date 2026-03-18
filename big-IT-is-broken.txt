@@ -1,0 +1,33 @@
+
+
+The writer is the UK government’s former chief digital officer and a founding partner at Public Digital
+
+The Post Office-Horizon affair is a human tragedy and a humiliation for the British establishment. Without a radical change in mindset at the top of government and the civil service, it will happen again. If governments continue to procure big IT consultancies to run entire national services, more ruined lives and scandals are inevitable.
+
+In the early 2010s, I was the UK government’s Chief Digital Officer, running the new Government Digital Service and demonstrating a fresh way of doing things. GDS was created in the wake of technology service failures in tax, immigration, prisons and, most notably, the NHS National Programme for IT’s £10bn collapse. More than 15 years on, the Post Office experience bears a similar imprint.
+
+Huge IT disasters are not exclusively a British disease. The list of failures goes on, the wasted billions mount, the same suppliers show up all over the world.
+
+Australia’s welfare Robodebt scheme, which ran from 2015-19, was described as a “massive failure of public administration”. An inquiry led to the Australian government repaying A$1.8bn to those whose supposed welfare overpayments had been wrongly clawed back. The scheme’s advisers PwC paid back nearly A$1mn of their fees.
+
+In Canada, the 15-year long Phoenix public payroll system fiasco, initiated in 2009, has wrongly paid thousands of public servants, cost over C$2bn, 10 times its initial cost, and has been described by the finance committee as an “international embarrassment.”
+
+The state government of Indiana embarked on an automated fraud detection programme in 2006, engaging IBM on a 10-year $1.3bn contract. Cancelled after only three years, an independent review described it as “a ‘perfect storm’ of misguided government policy and overzealous corporate ambition.”
+
+There are more: healthcare.gov in Washington; the first version of the UK’s universal credit system. And these failures run deeper than pounds and pence. Lives are ruined. The public realm is degraded.
+
+The scale is stunning. The Standish Group has a database of over 100,000 US government IT projects. Its annual Chaos report makes grim reading for ministers. It shows that in 2016, waterfall projects, where big bets on technology certainty are made before user needs are really known, failed or partly failed 87 per cent of the time, offering near zero value for money.
+
+Yet we continue to doggedly pursue failed contracts like Horizon. Since the 1990s, both Labour and Conservative ministers have handed control to “the Big IT crowd”. Successive prime ministers bought the line that major-project databases and applications would deliver great outcomes. They didn’t.
+
+This orthodoxy still prevails. Entire services — tax, immigration, passports, benefits — have been given over to IT suppliers and their favoured consultancies, who in the absence of true competition can inflate contract values in return for maintenance and minimal changes. The resulting pattern is services becoming fixed, more expensive to run and unable to adapt.
+
+Meanwhile, organisations born in the Internet era, from payments to retail sectors, have demonstrated how to deliver services cheaply, at global scale. Gareth Davies, the National Audit Office chief executive recently recommended the UK adopts “manageable projects compared to gigantic, overambitious attempts to change the whole world with one IT system.” He estimates we could save £20bn. I think that’s modest.
+
+We already know what to do because it has been tried with success elsewhere. Namely design services with a “test and learn” approach that adapts as user needs and behaviour change, rather than making one big bet on an IT tender that tries to predict requirements years in advance. Inside government, put experienced operators rather than generalist policymakers in charge. And crucially, reform the Treasury approach: selecting single IT suppliers on long-term contracts creates the legacy IT arrangements that bedevil the public sector.
+
+Horizon is just another painful chapter in the long story of Big IT failure: no empathy for users, leaders that do not understand the value of service delivery and technology, and a civil service culture that refuses to put procurement, commercial and technology skills on a par with policy.
+
+Ultimately, ministers decide. They can pull levers to shake the state out of its inertia. We need to think about our services — from postmasters to GP appointment bookings — in terms of designing a national infrastructure, not just outsourcing IT functions.
+
+Politicians could start by rejecting the silver bullets sold by the major consultancies and do the really hard work of resetting public service delivery culture. We have to redesign government so it that it can redesign government services. Big IT has done enough damage already. The termination letter is in the post.

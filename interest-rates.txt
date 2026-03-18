@@ -1,0 +1,46 @@
+Know someone who might like Capital Gains? Use the referral program to gain access to my database of book reviews (1), an invite to the Capital Gains Discord (2), stickers (10), and a mug (25). Scroll to the bottom of the email version of this edition or subscribe to get your referral link!
+
+Here's a simple story on why interest rates exist: You have made some money (or, equivalently, you've produced some goods). You could use that output to consume something now, as many people do, but you're willing and able to wait. This means that someone who insists on immediate consumption could borrow from you, and might be willing  to pay you back slightly more later. Doing so would move some of your consumption into the future, and increase it, while someone else who is more present-focused—perhaps because they need something right now and can't afford it, perhaps because of poor impulse control, maybe because their consumption actually allows them to invest their time in future productive activity at a higher return than what they pay in interest—consumes now. Result: interest rates exist, and they're positive.
+
+Now consider another story: You've worked all your life, and you currently earn more than enough to pay for your consumption. But you're planning to retire, or perhaps you’re worried that you won't be able to work in the future. You care about smoothing consumption over time, and it doesn't make you better-off to gorge yourself this year and starve to death next year. So you pay someone to store your wealth, ensuring that you'll have access to it in the future. You might spend some money on durable goods, but some parts of your consumption basket can't be stored; they're perishable, or they're services rather than goods. So you store money instead, and convert it into goods and services in the future. This uncertainty-reduction is a valuable service, and you're happy to pay a modest fee for it. Result: interest rates exist, and they're negative.
+
+Both of these stories are logically valid. They've both applied in different places and times. Even weirder, they've both applied in the same place and time: a Renaissance banker might lend money to the local duke at 15%, and might also bury some coins in the backyard (net return: zero minus the risk of loss, i.e. an expected zero rate of return).
+
+What force sets the rate of interest at which the demand to save matches the demand to lend, giving money a price?
+
+There are a few factors. One is the demand for fixed investments that produce something of value over long periods. Intuitively, this could mean heavy machinery, transportation equipment, etc., but the biggest category is housing. A newly-constructed house in the US today has a useful life of 70+ years, but its cost is mostly paid for upfront. So one driver of interest rates is the rate of family formation: when lots of people are buying houses, either to settle down and have kids or after splitting up, this demand for long-term assets creates demand for long-term loans, pushing interest rates up. In the postwar US economy, inflation and rates were fairly low, and started to pick up in the 1960s as government spending on social programs and Vietnam increased aggregate demand. But the really extreme values were hit in the 1970s, when the Baby Boomers started reaching buy-a-house-with-a-backyard-for-the-kids age. This was also a time when median age at first marriage started to tick up, increasing the number of solo households.1 It was also a period where the divorce rate doubled in slightly over a decade, once again increasing the number of houses per capita. All this household formation drove demand for other products, too; more houses mean more cars, appliances, etc., and if those new households start producing kids, suddenly there's demand for things kids consume, too.
+
+The 2010s were roughly the opposite situation, at least in the rich world: most countries were getting older, and older people tend to place a high and growing premium on being certain that they'll have some kind of income after they're no longer working. So rates, especially on longer-term debt, dropped; Austria issued a hundred-year bond in 2017, and its value had more than doubled by early 2021 ($, FT). That bond was not so much the result of a government trying to take advantage of lenders as it was lenders desperately clamoring for longer-term debt: a life insurance company that issues annuities has long-duration liabilities, whose value rises if rates drop. Such an insurance company wants to match long-term liabilities with long-term assets, and a century bond is a potent way to add some duration to the mix.2 Meanwhile, economic growth was slow, and tech was still in its mostly deflationary phase where it was replacing higher-priced alternatives ($9.99/month for Netflix instead of multiples of that for a premium cable package).
+
+We haven't solved the aging problem, though there are promising early signs. But inflation, and rates, are higher now than they were a few years ago, as a number of people have pointed out. In the short term, policy affects rates, both in the sense that interest rates are literally set by central banks and because deficit spending increases aggregate demand (taxpayers have a lower propensity to consume than the average recipient of government funds) and increases the supply of government debt. The Covid era was, among other things, a fascinating experiment in what happens when governments have a mandate to spend as fast as possible while the cost of money temporarily rounds down to roughly zero.
+
+But in the long run, rates are a matter of supply and demand, and that supply and demand is heavily influenced by where the average person is in their spending lifecycle, and by whether or not the number of people is growing. In a country that reaches zero population growth, two things happen in the housing market:
+
+    There's minimal demand for new houses, because existing inventory is more than enough to meet demand.
+
+    The price of a house no longer capitalizes some long-term expectation about growing demand (every suburban house is priced in part based on the probability that, given enough population growth, it'll be an urban house some day). 
+
+And this coincides with a larger share of the population being in the saving-for-retirement phase or in the thinking-about-fixed-income phase. The picture gets messier when we add in healthcare spending, which is disproportionately consumed by older people and which is not especially amenable to productivity improvements.3 In an aging population with rising healthcare costs, it's entirely possible that some expensive new treatments will be actively discouraged by policymakers, or that the cost of providing basic care to a larger population will crowd them out.
+
+The existence of interest rates is theoretically intuitive, but often annoying in practice, as anyone familiar with student loan discourse can attest. But consumption gets paid for one way or another, and if you're buying money now you're paying with money later. Typically, you're paying with more money later, but that's not a law of nature, just one of many possible outputs from a complex multivariate system.
+
+Read More in The Diff
+
+The Diff has covered interest rates and where they come from in a few different places:
+
+    Central Banks Monetize Land ($) articulates the theory that it’s demand for mortgages that creates most of the instability central banks try to address.
+
+    This post elaborates on the model with thoughts on how demographics affect rates ($).
+
+    Banks want to be free to create all the credit their customers ask for ($).
+
+    Low rates also create conditions in which low rates persist ($).
+
+    And the long-term history of interest rates is useful to know but tricky to interpret. 
+
+1. Though this could also have been the result of so many couples competing for an inelastic supply of homes; it's not necessarily an independent trend.
+
+2. If you're thinking of duration as "when does the bond mature," this gets messy, as the bond will outlive all policyholders. But "duration" is also a measure of a bond's sensitivity to interest rates, and you can mix and match a portfolio of bonds of varying maturities to get any duration you want that's between those. If your liabilities have a duration of 13.5 years, a mix of ten- and twenty-year bonds will get you there. In fact, it's been proposed ($, Economist) that governments just issue two kinds of bonds: one floating-rate perpetuity that always pays the shortest-term interest rate, and one indefinite perpetuity that pays $1/year forever. Turning this into any specific duration is just a matter of mixing the two together.
+
+3. The best healthcare is still getting better, but as the easy wins like handwashing and antibiotics get widely deployed, the next advances tend to be expensive ways to slightly extend the lives of older people. GLP-1 agonists are a fortunate example, where they're a drug that likely reduces the overall healthcare costs of users.
+

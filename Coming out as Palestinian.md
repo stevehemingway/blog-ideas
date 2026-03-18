@@ -1,3 +1,0 @@
-# Coming out as Palestinian - https://on.ft.com/3Ty9mUu via @FT
-
-

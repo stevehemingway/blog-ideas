@@ -1,0 +1,38 @@
+
+American liberals and conservatives don’t differ in explicit beliefs all that much. In a non-parliamentary system, the two parties coalesce at just-visibly-left- and just-visibly-right-of center. There’s no need to go any further, and per Hotelling’s Law it’s a bad idea anyway. And yet on countless individual issues, every debate is a crazy fight to the death between two groups who are convinced the other is radical to the point of insanity.
+
+This is not necessarily crazy. There are good game-theoretic reasons to be radical to the point of insanity, just in small increments. In fact, I’d like to argue that in a simplified model of a two-party system, given a big enough gap in trust and communication between the two parties, you should expect two wishy-washy just-off-center parties to act as if they’re both 99.9th percentile fanatics on every issue.
+
+Let’s take a minor, low-stakes issue, such as, I don’t know, abortion. Looking at Gallup’s data, it looks like just under 20% of people think abortion should never be legal, just under 30% think it should always be legal, and half the country thinks it should be sometimes legal. What you’d naively expect from a democratic system is that we’d have some compromise, such as: it’s legal, but not all the time. The exact number fluctuates, but that’s been the general tendency since Gallup started collecting data in the 70s.
+
+But every enforced law establishes an Overton Window of what’s acceptable. And if you have a strong view, the opposite end of the Overton Window is always visible in high relief. To someone who wants abortion banned in all circumstances, a partial ban means that the electorate has accepted the idea that abortion could be okay, some of the time, which means more widespread availability is theoretically possible. And to someone who wants it legal under all circumstances, the converse is true: a ban on late-term abortion indicates that it’s potentially okay to ban some kinds of abortion.
+
+Even if they don’t have strong views, most of the neutral people have a bias; they’d either like it to be legal, but less common, or they’d like it to be rare, but more obtainable. Since those people are the majority, and they’re undecided, in political terms they’re the only people who matter — a coherent vision of the future contains one of three possibilities:
+
+    People opposed to abortion in all circumstances eventually become a majority of the electorate, perhaps because of the whole skepticism-of-birth-control thing.
+    People who are in favor of abortion in all circumstances somehow discover an argument so compelling more than half the country buys into it, even though people have been arguing about this issue for generations. (While this is implausible to me, basically everyone who spends time arguing about anything online implicitly assumes that they might somehow discover the rhetorical skeleton key that counters every counterargument.)
+    Endless back-and-forth.
+
+It’s the shape of that back-and-forth that matters. Consider the view of a moderately pro-choice person: they might think, for example, that abortion is basically fine in the first trimester, dubious in the second, and only reasonable in life-threatening emergencies in the third. Or consider a moderately pro-life person, who thinks abortion can be the right choice if the mother’s life is at risk, but that it’s otherwise a morally dicey proposition, and that it’s not acceptable as a general category of birth control. In both cases, there’s a policy preference, but not an especially compelling philosophical argument.
+
+Moderates don’t like to dive into the details of the argument. Moderation doesn’t lend itself to eloquent imagery or thought experiments. If you’re performing thought experiments, you’re in effect pre-committing to joining one of the two extreme sides. When the topic is “is this a violation of a fundamental human right?” whether that’s a right to bodily autonomy or a right to life, only a complete sociopath can articulate a middle ground where violating fundamental rights is a little bit okay.
+
+In my Jesuit high school, the priests seemed to really enjoy making the “moderate” pro-life students squirm. “So, it might be murder. But it might not be. So it’s… okay? Are you sure?” Then I went to college, where I heard a philosophy TA do the same thing in the other direction: “Imagine that you wake up in a hospital bed, to find yourself plugged in to a famous violinist…”[1]
+
+I wouldn’t say that it’s impossible to start from first principles and derive a moderate position, but it’s clearly pretty hard. At the same time, a lot of people don’t have a strong view because politics is full of painful tradeoffs that require expert-level knowledge. Does anyone know what choice in Libya or Syria or Afghanistan will actually protect the most innocent lives? I wouldn’t trust anyone who thought it was an easy call — the only trustworthy people are the ones who bite a bullet somewhere.
+
+If you’re a moderate, you’re necessarily on philosophically shaky ground. You’re relying on the Overton Window, which provide a buffer between what you think is a reasonable compromise and what level of extremism in either direction is anathema. This creates a ratcheting effect: given the opportunity, you’d prefer a democratically-decided law to be a bit more extreme than what you’d pick if you were the sole dictator, simply because random drift will push it in the other direction. So the moderate restrictionist pushes for a slightly more extreme view; and the moderately pro-choice person tries to keep a few more options open.
+
+The result of this, though, is that everyone you disagree with is both extreme and making shoddy arguments. And since the best arguments are in favor of the most extreme viewpoints, everybody’s basically using extremists as ideological arms dealers and then sanding off the serial numbers before use.
+
+And this means that slippery-slope arguments are a little more valid. The median participant in the process is taking the status quo and nudging it in their preferred direction. To them, this is prudent; to their opponents, it looks like no extreme is too extreme, and meanwhile all the rhetoric is just plain explosive. The game theoretically correct move is to keep doing what you’re doing: given the opportunity, you should always shift things in your preferred direction, because the other side’s going to do it, too.
+
+This is a recipe for endless conflict, for low-value, pathologically dishonest rhetoric, and for a constant stream of legislative and judicial outrages on both sides.
+
+It’s usually nice to tie this up with a solution, but there probably isn’t one. Just keep in mind that, on any contentious political issue:
+
+    If it’s contentious, that means there are extremists, but also a bunch of people haven’t made up their minds.
+    The extremists probably have more coherent arguments, but these are also arguments that brand you as a reprobate to a decent fraction of your friends.
+    The moderates are behaving in a short-sighted, Machiavellian way, but only because the moderates who moderately-disagree with them are doing the same thing.
+
+So, for any issue your friends argue about on Facebook, realize that they’re not as stupid or crazy as they sound. It’s just that they’ll never admit it.

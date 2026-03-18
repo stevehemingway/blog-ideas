@@ -1,0 +1,55 @@
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.14/site-packages/conda/exception_handler.py", line 18, in __call__
+    return func(*args, **kwargs)
+  File "/usr/lib/python3.14/site-packages/conda/cli/main.py", line 61, in main_subshell
+    exit_code = do_call(args, parser)
+  File "/usr/lib/python3.14/site-packages/conda/cli/conda_argparse.py", line 205, in do_call
+    result = getattr(module, func_name)(args, parser)
+  File "/usr/lib/python3.14/site-packages/conda/notices/core.py", line 132, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python3.14/site-packages/conda/cli/main_create.py", line 119, in execute
+    raise ArgumentError(
+        "one of the arguments -n/--name -p/--prefix is required"
+    )
+conda.exceptions.ArgumentError: one of the arguments -n/--name -p/--prefix is required
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/bin/conda", line 8, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/usr/lib/python3.14/site-packages/conda/cli/main.py", line 105, in main
+    return conda_exception_handler(main, *args, **kwargs)
+  File "/usr/lib/python3.14/site-packages/conda/exception_handler.py", line 386, in conda_exception_handler
+    return_value = exception_handler(func, *args, **kwargs)
+  File "/usr/lib/python3.14/site-packages/conda/exception_handler.py", line 21, in __call__
+    return self.handle_exception(exc_val, exc_tb)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/conda/exception_handler.py", line 62, in handle_exception
+    return self.handle_application_exception(exc_val, exc_tb)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/conda/exception_handler.py", line 78, in handle_application_exception
+    self._print_conda_exception(exc_val, exc_tb)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/conda/exception_handler.py", line 84, in _print_conda_exception
+    print_conda_exception(exc_val, exc_tb)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/conda/exceptions.py", line 1270, in print_conda_exception
+    stderrlog.error("\n%r\n", exc_val)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.14/logging/__init__.py", line 1549, in error
+    self._log(ERROR, msg, args, **kwargs)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.14/logging/__init__.py", line 1665, in _log
+    self.handle(record)
+    ~~~~~~~~~~~^^^^^^^^
+  File "/usr/lib64/python3.14/logging/__init__.py", line 1676, in handle
+    maybe_record = self.filter(record)
+  File "/usr/lib64/python3.14/logging/__init__.py", line 867, in filter
+    result = f.filter(record)
+  File "/usr/lib/python3.14/site-packages/conda/gateways/logging.py", line 66, in filter
+    record.msg = self.TOKEN_REPLACE(record.msg)
+                 ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+TypeError: 'str' object cannot be interpreted as an integer
